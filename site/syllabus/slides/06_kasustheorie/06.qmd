@@ -1,0 +1,314 @@
+---
+title: "Untitled"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN
+Gabriel Martínez Vera
+Goethe-Universität
+MartinezVera@em.uni-frankfurt.de
+1
+
+WIEDERHOLUNG
+Argumentstruktur
+Theta criterion (Chomsky 1981)
+Thetarollen
+vP
+DP-Hypothese 
+
+KASUSTHEORIE
+Die syntaktische Funktion wird in Sprachen wie dem Deutschen durch Flexionsaffixe angezeigt. 
+Diese Affixe markieren die einzelnen Kasusformen (Nominativ, Akkusativ, Dativ etc.). 
+(1) 	[Die Frau]NOM gibt [dem Mann]DAT [einen Roman]AKK . 
+In den heutigen romanischen Sprachen: Nomina werden nur nach Numerus flektiert. 
+Der Verlust der morphologisch markierten Kasus gehört zu den wichtigsten typologischen Merkmalen, die die romanischen Sprachen vom Lateinischen unterscheiden. 
+
+
+KASUSZUWEISUNG
+Nominale Konstituenten müssen durch die Zuordnung einer Satzfunktion lizenziert werden. 
+Lizenzierung erfolgt durch die Zuordnung eines gültigen Kasuswerts. 
+Jede DP erhält ihren Kasuswert von einer bestimmten Kategorie. 
+Die Kasusform einer DP ist von ihrer syntaktischen Funktion und damit von ihrer Position im Strukturbaum abhängig. 
+Eine DP, die keinen Kasus erhält, steht an einer unangemessenen strukturellen Position, und der Satz ist nicht grammatisch. 
+
+
+KASUSZUWEISUNG
+‘Every phonetically realized NP [DP here] must be assigned (abstract) Case. In some languages, Case is morphologically realized, in others not, but we assume that it is assigned in a uniform way whether morphologically realized or not.’ 
+(Chomsky 1986: 74) 
+
+
+KASUSREKTION
+Der Kasus wird von einem Kopf X zugewiesen, der selbst kein Träger des Kasusmerkmals ist. 
+Als Kasusregenten fungieren universal Verben und Präpositionen (V und P). 
+Nomina und Adjektive (N und A) dagegen sind nicht in allen Sprachen als Kasuszuweiser geeignet. 
+(2)	a. dt. die Zerstörung der Stadt
+	b. eng. the destruction of the city
+	c. dt. jemandem treu
+	d. eng. faithful to someone 
+
+
+MORPHOLOGISCHER VS. ABSTRAKTER KASUS 
+Jede DP muss einen abstrakten Kasuswert haben, unabhängig von der morphologischen Realisierung. 
+Der morphologische Kasus wird durch Flexion realisiert. 
+Im Spanischen und im Portugiesischen ist die Kasusmarkierung der DP im Gegensatz zu der der Pronomina nicht sichtbar. 
+(3)	a. sp. pro lee [DP este libro]. 	abstrakter Kasus
+	a’. pt. pro lê [DP este livro]. 
+	b. sp. pro lo lee.		abstrakter & morphologischer Kasus 
+	b’. pt. pro lê-o.
+
+MORPHOLOGISCHER KASUS 
+
+
+(4)	a. dt. Wir haben den Hund gekauft. 	[Kasus:AKK]
+	b. dt. Wir haben dem Hund geschadet. 	[Kasus:DAT] 
+	c. dt. Wir haben der Hunde gedacht. 	[Kasus:GEN] 
+
+
+STRUKTURELLER KASUS
+Wie funktioniert die strukturelle Kasuszuweisung? 
+erfolgt in bestimmten Positionen 
+Akkusativ und Nominativ 
+Der Akkusativ wird der DP von den Köpfen P und V in Komplementposition zugeordnet. 
+Der finite T-Kopf weist der Subjekt-DP in Spec,TP den Nominativ zu. 
+
+
+STRUKTURELLER KASUS
+Die Zuweisung von dem strukturellen Kasus ist von der Vergabe der semantischen Rollen unabhängig. 
+Passivdiathese: Leitet man aus einem Aktivsatz einen Passivsatz ab, behält die DP ihre Thetarolle Thema, trägt jedoch nicht mehr den Kasus Akkusativ, sondern den Nominativ: 
+(5) 	a. sp. Carmen venderá [este carro].
+	a’. pt. A Carmen venderá [este carro].
+			Kasus: AKK, Thetarolle: Thema 
+	b. sp./pt. [Este carro] será vendido.
+			Kasus: NOM, Thetarolle: Thema 
+
+
+KASUSZUWEISUNG
+(6)	a. sp.					b. pt.
+TP
+T
+T’
+VP
+V’
+DP
+la tarea
+ha
+DP
+Susana
+t
+NOM
+ACC
+V
+hecho
+PP
+P’
+DP
+as meninas
+P
+para
+ACC
+
+INHÄRENTER KASUS 
+Neben dem rollenunabhängigen Kasus gibt es Kasus, der mit bestimmten Thetarollen zusammenhängt: 
+(7) 	a. sp. [A  Pedro] le gustan los carros.
+		Kasus: DAT, Thetarolle: Experiencer
+	b. pt. A Carmen deu este telemovel [à Ana]
+	c. pt. Este telemovel foi dado [à Ana]
+		Kasus: DAT, Thetarolle: Rezipient
+Der inhärente Kasus ist im Spanischen und im Portugiesischen nicht wie im Deutschen durch Flexionsaffixe markiert, sondern durch bestimmte Präpositionen.
+
+INHÄRENTER KASUS
+Der inhärente Kasus hängt von lexikalischen Besonderheiten lexikalischer Elemente ab und ist stets mit bestimmten thematischen Rollen verbunden. 
+Sie werden nicht automatisch an bestimmten strukturellen Positionen vergeben. 
+Das Kasusmerkmal ist ‘inhärent’ und im Lexikoneintrag festgeschrieben. 
+(8)	a. Sie hilft ihm.
+	b. Ihm wird geholfen.
+
+GENITIV
+Im Spanischen und im Portugiesischen lassen sich mit de eingeleitete PPs als Realisierung eines inhärenten Kasus Genitiv auffassen. 
+Diese Phrasen entsprechen der Thetarolle Possessor.
+(20)	a. sp. Las revistas de Andrea
+	b. pt. os libros do Miguel
+
+
+DATIV
+Im Spanischen und im Portugiesischen mit der Präposition a markiert
+Mit a eingeleitete PPs können durch Dativpronomina ersetzt werden. 
+(21) 	a. Pedro da un regalo a Miguel.
+	a’. O Pedro dá um presente ao Miguel.
+	b. Pedro le da un regalo.
+	b’. O Pedro dá-lhe um presente.
+
+KASUSPHRASE
+Einige Konstruktionen lassen keine Pronominalisierung mit den Dativpronomina zu, sondern erfordern die Wiederholung der Präposition und die Setzung eines starken Pronomens.
+(22)	a. sp. Todos los días piensa en su enamorada.
+	a’. pt. Todos os dias pensa na sua namorada.
+	b. sp. *Todos los días le piensa.
+	b’. pt. Todos os dias pensa-lhe.
+	c. sp. Todos los días piensa en ella. 
+	c’. pt. Todos os dias pensa nela. 
+
+
+
+KASUSPHRASE
+Es gibt also Verben, die stets zusammen mit einer bestimmten Präposition vorkommen (hier: sp. pensar en, pt. pensar em). 
+Daraus folgt: das Auftreten von en ist im Lexikoneintrag des Verbs pensar festgeschrieben. 
+Präpositionalobjekte wie sp. en su enamorada, pt. na sua namorada können wie overt kasusmarkierte Phrasen behandelt werden. 
+(23) 	a. sp. Pienso en ti.				[Kasus: en, em] 
+	a’. pt. Penso em ti			
+	b. La casa queda al lado de la laguna. 	[Kasus: de, de] 
+	b’. A casa fica ao lado do la laguna. 	
+
+KASUSPHRASE
+Kasusmarkierende Präpositionen werden als funktionale Köpfe K ‘Kasusmarker’ in der erweiterten Projektion von N betrachtet.
+(24)	
+
+KP
+K’
+DP
+su enamorada
+a sua namorada
+K
+en
+em
+
+KASUSPHRASE
+(25)
+TP
+T
+T’
+VP
+V’
+ha
+terá
+DP
+Pedro
+O Pedro
+t
+NOM
+en
+V
+pensado
+pensado
+KP
+K’
+DP
+su enamorada
+a sua namorada
+K
+en
+em
+Thema
+Experiencer
+
+EXCEPTIONAL CASE MARKING (ECM)
+Im Fall von ECM-Infinitiven erhält das Subjekt den Kasus Akkusativ vom Matrixverb, da der Infinitiv seinem thematischen Subjekt keinen Kasus zuweisen kann. 
+(28)	a. sp. María vio a Pedro lavar el carro. 
+	a’. pt. A Maria viu o Pedro lavar o carro. 
+	b. sp. María lo vio lavar el carro. 
+	b’. pt. A Maria viu-o lavar o carro. 
+Pedro ist Agens-Subjekt des Verbs sp./pt. lavar, nicht Thema-Objekt des Verbs sp./pt. ver. 
+Der eingebettete Infinitivsatz ist eine TP-Projektion, da eine CP die Kasuszuweisung durch das Matrixverb blockieren würde.
+Der gesamte Infinitivsatz fungiert als Komplement des Verbs.
+
+
+
+EXCEPTIONAL CASE MARKING (ECM)
+Infinitivkomplemente mit Akkusativsubjekten sind im Spanischen und im Portugiesisichen möglich mit: 
+kausativen Verben wie sp. dejar, permitir, pt. obligar, deixar, fazer
+perzeptiven Verben wie sp. ver, oír, pt. ver, ouvir
+
+
+EXCEPTIONAL CASE MARKING (ECM)
+(26)
+TP
+T
+T’
+VP
+V’
+vio
+viu
+DP
+Susana
+A Maria
+t
+NOM
+t
+TP
+T’
+…
+T
+lavar
+lavar
+Thema
+Agens
+DP
+a Pedro
+o Pedro
+ACC
+
+ANHEBUNGSVERBEN 
+(27)	a. sp. El niño parece dormir (tranquilo). 
+	b. pt. O menino parece dormir.
+Anhebung eines Subjekts in die strukturell höhere Subjektposition des Matrixsatzes 
+sp. El niño, pt. O menino erhält zwar Thetarolle vom eingebetteten Verb, jedoch keinen Kasus. 
+sp./pt. parecer, das Anhebungsverb, vergibt Kasus (NOM), aber keine Thetarolle (somit keine Verletzung des Theta-Kriteriums). 
+
+
+ANHEBUNGSVERBEN
+(28)	a. sp. pro parece que el niño duerme (tranquilo).
+	a’. pt. pro parece que o menino dorme.
+	b. sp. El niño parece t dormir (tranquilo).
+	b’. pt. O menino parece t dormir.
+	c. sp. *El niño parece PRO dormir (tranquilo). 
+	c’. pt. *O menino parece PRO dormir.
+sp. El niño, pt. O menino ist kein Argument von sp./pt. parecer. 
+Der eingebettete Infinitivsatz ist eine TP-Projektion, da eine CP die Anhebung des eingebetteten Subjekts blockieren würde. 
+
+
+(29)
+TP
+T
+T’
+VP
+V’
+parecei
+parecei
+DP
+el niñoj
+o meninoj
+NOM
+ti
+TP
+T’
+T
+dormirk
+Agens
+VP
+V’
+tk
+tj
+
+IN A NUTSHELL
+morphologischer Kasus und abstrakter Kasus 
+struktureller Kasus (NOM, AKK) und inhärenter Kasus (DAT, GEN) 
+Kasuszuweisung
+ECM (ver, oír, dejar u.a.) 
+Anhebungsverben (parecer) 
+
+
+AUFGABE 1
+Stellen Sie den folgenden Satz im Strukturbaum dar. Kennzeichnen Sie Kasus- und Thetarollenvergabe durch Pfeile. 
+(1)	a. Susana le ha dado un regalo a Miguel.
+	a’. A Maria dá um presente ao Miguel.
+*Stellen Sie sp. le und sp. dio zusammen unter V/v dar.
+
+
+
+NACHBEREITUNG
+Bitte lesen Sie Gabriel, Christoph und Meisenburg, Trudel (2014): Romanische Sprachwissenschaft. Paderborn: W. Fink, Kap. 7.3. (Kasustheorie) 
+Link zu dem Buch: https://hds.hebis.de/ubffm/Record/HEB368967395). 
+Siehe auch Ramers, Karl-Heinz (2007): Einführung in die Syntax. Paderborn: W. Fink, Kap.5.1. (Kasustheorie)
+Link zu dem Buch - https://hds.hebis.de/ubffm/Record/HEB368954862) 
+
+

@@ -1,0 +1,483 @@
+---
+title: "EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN"
+format: revealjs
+incremental: true 
+editor: source
+logo: "g_logo.png"
+fontsize: 24px
+---
+
+# Intro
+
+-   Ich bin Kyle
+    -   email
+
+------------------------------------------------------------------------
+
+# Intro
+
+Wer sind sie? 
+
+------------------------------------------------------------------------
+
+# Buch
+
+Camacho, J. (2018). **Introducción a la sintaxis del español**. Cambridge University Press.
+
+------------------------------------------------------------------------
+
+# Zeitplan
+
+------------------------------------------------------------------------
+
+# RAE (Real Academia Española)
+
+- Eine Institution für die Pflege der spanischen Sprache
+
+- www.rae.es
+
+------------------------------------------------------------------------
+# In Gruppen...
+
+- Ist die RAE notwendig? Warum oder warum nicht?
+
+- Wenn es die RAE nicht gäbe, was würde dann mit der spanischen Sprache passieren?
+
+-------------------------------------------------- ----------------------
+
+Erklären Sie die in der folgenden Definition fett markierten Konzepte:
+
+Eine Sprache ist eine Form **sozialen Verhaltens (1)**, die ermöglicht Kommunikation durch **kreative Nutzung (2)**. Sie besteht aus **geordneten Systemen (3)** von **mündliche Zeichen (4)** die **willkürlich (5)** sind
+
+
+-------------------------------------------------- ----------------------
+
+## 1. Sozialverhalten
+
+Sprache ist das Ergebnis der Interaktion innerhalb einer Gemeinschaft.
+
+Ohne einen anderen Menschen ist es undenkbar und möglicherweise unmöglich, eine Sprache zu schaffen.
+
+Sprache ist das Ergebnis eines Konsenses innerhalb einer Gemeinschaft.
+
+-------------------------------------------------- ----------------------
+
+## 2. ermöglicht Kommunikation durch kreative Nutzung
+
+Die gleiche Idee kann auf verschiedene Arten ausgedrückt werden.
+
+Wir sehen Kreativität in der Kombination sprachlicher Laute, wenn wir verschiedene Sprachen vergleichen.
+
+Das Lexikon ist ein Bereich großer Kreativität, da in jeder Sprache ständig neue Wörter geschaffen werden.
+
+-------------------------------------------------- ----------------------
+
+## 3. geordnetes System
+
+Es handelt sich um ein geordnetes System, da es durch grammatikalische Regeln geregelt ist, deren Anwendung alle Sprecher vereinbaren.
+
+-------------------------------------------------- ----------------------
+
+## 4. mündliche Zeichen
+
+Die Definition eines Zeichens ist: eine visuelle, akustische oder taktile Darstellung, die etwas anderes darstellt und auf die man sich geeinigt hat; es besteht keinerlei natürliche Beziehung zwischen dem Zeichen und dem Konzept oder der Sache, die durch das Zeichen dargestellt wird.
+
+Nicht nur in der Sprache finden wir Zeichen, auch in der Begrüßung (z. B. beim Begrüßen oder Verabschieden mit der Hand oder bei Autosignalen) finden wir sie.
+
+Wir sagen, dass Sprache aus einem geordneten System mündlicher Zeichen entsteht, da Sprache durch Mündlichkeit erlernt wird und dies der wesentliche Teil einer Sprache ist. Es gibt Sprachen, die keine Schrift haben, sondern nur Mündlichkeit, und dennoch betrachten wir sie weiterhin als Sprachen und sie erfüllen ihre kommunikative Funktion innerhalb der Sprechergemeinschaft.
+
+-------------------------------------------------- ----------------------
+
+## 5. Willkürliche Zeichen
+
+Wir können sagen, dass die Zeichen, aus denen eine Sprache besteht, willkürlich sind, da sie keinen Bezug zu ihrer Bedeutung haben. Das heißt, in der Sprache gibt es keinen Grund oder natürlichen Zusammenhang, der die Zeichen rechtfertigen könnte, die zur Benennung von Objekten oder Konzepten verwendet werden.
+
+Was ist der offensichtliche Beweis dafür, dass Sprachen Mengen willkürlicher Zeichen sind? Dass es mehr als 6000 Sprachen auf der Welt gibt. Daher entscheidet die Gemeinschaft der Sprecher willkürlich (da es keinen logischen oder natürlichen Zusammenhang zwischen dem Zeichen und der dargestellten Sache oder dem dargestellten Begriff gibt), ein bestimmtes Zeichen mit einer bestimmten Sache oder einem bestimmten Begriff zu assoziieren.
+
+-------------------------------------------------- ----------------------
+
+
+# LEISTUNGSNACHWEIS
+
+**Prüfungsform: Take-home Klausur**
+
+-   Klausurabgabetermin: Dienstag, 01.02.2022
+
+-   Anmeldung zur Prüfung/Rücktrittstermin: bis 31.01.2022, über QIS
+
+------------------------------------------------------------------------
+
+# ALLGEMEINE FRAGEN
+
+-   Was ist Syntax?
+
+-   Was wissen Sie über die Syntax des Spanischen und Portugiesischen?
+
+-   Welche Phänomene oder Eigenschaften des Spanischen und Portugiesischen haben Sie gelernt?
+
+-   Inwiefern unterscheidet sich Spanisch und Portugiesisch von Deutsch?
+
+------------------------------------------------------------------------
+
+# WAS IST SYNTAX?
+
+-   Syntax ist die Lehre vom Satzbau.
+
+-   Einzelne Wörter werden nach bestimmten Regeln zu komplexen Einheiten verbunden (zu Wortgruppen, dann zu Phrasen und dann zu ganzen Sätzen)
+
+------------------------------------------------------------------------
+
+# EINIGE BEISPIELE
+
+(1) 
+
+    a.  Die Frau gibt dem Mann das Journal.
+
+    b.  Der Mann gibt das Journal dem Mann.
+
+        ```         
+        (Im Satz ist das Journal besonders betont.)
+        ```
+
+    c.  Der Mann gibt ihm das Journal.
+
+    d.  \*Der Mann gibt das Journal ihm.
+
+    e.  Der Mann gibt es ihm.
+
+    f.  \*Der Mann gibt ihm es.
+
+------------------------------------------------------------------------
+
+# UNTERSUCHUNGSGEGENSTAND DER SYNTAX
+
+-   Wortordnung
+
+-   Kongruenz
+
+-   Bestandteile des Satzes
+
+-   Satzstruktur
+
+-   Satzarten
+
+------------------------------------------------------------------------
+
+# WORTSTELLUNG: VERB UND OBJEKT
+
+(2) 
+
+    a.  dt. Ich will \[O einen Apfel \] \[V essen \].
+
+    b.  dt. ..., dass ich \[O einen Apfel \] \[V esse \].
+
+    c.  sp. Quiero \[V comer \] \[O una manzana \].
+
+    d.  sp. ... que \[V como \] \[O una manzana \].
+
+    e.  pt. Quero \[V comer \] \[O uma maçã \].
+
+    f.  pt. ... que \[V como \] \[O uma maçã \].
+
+------------------------------------------------------------------------
+
+<!-- insert ex_3.png --->
+
+------------------------------------------------------------------------
+
+<!-- insert ex_4.png --->
+
+------------------------------------------------------------------------
+
+# WORTSTELLUNG: ARTIKEL UND NOMEN
+
+(3) dt. Der Hund rennt.
+
+    dt. \*Hund der rennt.
+
+    sp. El perro corre.
+
+    sp. \*Perro el corre.
+
+    pt. O cão corre.
+
+    pt. \*Cão o corre.
+
+------------------------------------------------------------------------
+
+# SYNTAX ⍯ PRÄSKIPTIVE GRAMMATIK
+
+(4) 
+
+    a.  sp. Había vinos en la casa.
+    b.  sp. Habían vinos en la casa.
+
+-   Die spanischen Redner benutzen beide (4a) und (4b).
+
+-   Es gibt einen Unterschied in der Kongruenz.
+
+-   (4a) ist der präskriptive Ausdruck.
+
+-   ABER das Ziel ist es, alles zu beschreiben und zu erklären, was ein Redner sagt (und sagen kann).
+
+------------------------------------------------------------------------
+
+# REKURSION
+
+(5) Spanisch
+
+    a.  Fui al cine y vi una película y comí pizza...
+    b.  Pedro cree que Juan dice que María tiene un carro.
+    c.  La casa del hermano de la mamá de Juan.
+
+    Portugiesisch
+
+    d.  Fui ao cinema e vi um filme e comi pizza...
+    e.  O Pedro pensa que o João diz que a Maria tem um carro.
+    f.  a casa do irmão da mãe do João
+
+------------------------------------------------------------------------
+
+# SYNTAKTISCHES WISSEN
+
+(6) 
+
+    a.  \*Colorless green ideas sleep furiously.
+
+    b.  \*Furiously sleep ideas green colorless. (Chomsky 1957)
+
+Jeder Englischsprecher weiß, dass der Satz in (6b) ungrammatisch ist, während dieser in (6a) richtig konstruiert ist, obwohl er in den meisten Kontexten sinnlos ist.
+
+------------------------------------------------------------------------
+
+# SYNTAKTISCHES WISSEN
+
+-   Sprecher einer Sprache verfügen über die Kompetenz, Sätze zu bewerten.
+
+-   Sprecher einer Sprache produzieren in der Regel erst gar keine ungrammatischen Konstruktionen.
+
+-   Sprecher besitzen beachtliches Wissen über den Satzbau ihrer Sprache.
+
+-   Syntaktisches Wissen ist weitgehend unbewusst.
+
+------------------------------------------------------------------------
+
+# WIE ERWERBEN KINDER EINE SPRACHE?
+
+-   Eine verbreitete Idee ist, dass Kinder durch Input und Nachahmung lernen.
+
+-   ABER nicht alles kann erworben worden sein.
+
+    -   Plato's problem (poverty of stimulus) (Chomsky 1965)
+    -   Sprecher verfügen über Wissen, das sie nicht aufgrund der verfügbaren Daten im Input erworben haben können.
+
+------------------------------------------------------------------------
+
+# PLATO'S PROBLEM
+
+-   Positive Evidenz sind die Äußerungen, die das Kind im Lauf der Sprachentwicklung hört.
+
+-   Negative Evidenz dagegen sind Informationen darüber, welche Äußerungen nicht wohlgeformt sind.
+
+    -   Eine negative Evidenz liegt z.B. dann vor, wenn ein Kind eine nicht wohlgeformte Äußerung macht und daraufhin von seinen Eltern korrigiert wird.
+
+-   Kinder werden praktisch nur mit positiver Evidenz konfrontiert.
+
+------------------------------------------------------------------------
+
+# NEGATIVE EVIDENZ
+
+*Child*: Nobody don't like me.
+
+*Mother*: No, say, 'Nobody likes me'.
+
+*Child*: Nobody don't like me. (dialogue repeated eight times)
+
+*Mother*: Now, listen carefully, say 'Nobody likes me'.
+
+*Child*: Oh, nobody don't likes me.
+
+------------------------------------------------------------------------
+
+# REGEL ZUR BILDUNG VON FRAGEN
+
+(7) 
+
+    a.  sp. La abuela está en el jardín.
+
+    b.  sp. ¿Está la abuela en el jardín?
+
+    c.  pt. A avó está no jardim.
+
+    d.  pt. Está a avó no jardim?
+
+Welche Regel(n) kann das Kind hier ableiten?
+
+------------------------------------------------------------------------
+
+# REGEL ZUR BILDUNG VON FRAGEN
+
+-   
+
+    (8) Stelle das dritte Wort an den Satzanfang.
+
+    -   
+
+        a.  La abuela y la mamá están en el jardín
+
+    -   
+
+        b.  \*¿Y la abuela la mamá están en el jardín?
+
+-   
+
+    (9) Stelle die dritte Satzeinheit an den Satzanfang.
+
+    -   
+
+        a.  \*A avó e a mãe estão no jardim.
+
+    -   
+
+        b.  \*A mãe a avó e estão no jardim?
+
+-   
+
+    (10) Stelle das Verb an den Satzanfang.
+
+    -   
+
+        a.  La abuela y la mamá están en el jardín.
+
+    -   
+
+        b.  ¿Están la abuela y la mamá en el jardín?
+
+------------------------------------------------------------------------
+
+# UNIVERSALGRAMMATIK
+
+-   Die Universalgrammatik (UG) ist angeboren (Chomsky 1981, 1986).
+
+-   UG ist eine Menge von abstrakten, für alle Sprachen der Welt gültigen Prinzipien.
+
+-   Diese Prinzipien enthalten sog. Parameter, d.h. Wahlmöglichkeiten oder Variablen, die auf bestimmte Werte festgelegt werden, sobald das Kind mit einem konkreten einzelsprachlichen Input konfrontiert wird. (vgl. Gabriel & Meisenburg 2014: 37)
+
+------------------------------------------------------------------------
+
+# PRINZIPIEN UND PARAMETER
+
+-   Prinzipien sind gültig für alle Sprachen.
+    -   Teil des angeborenen menschlichen Wissens
+-   Parameter sind sprachspezifisch.
+    -   Kopfparameter
+    -   Null-Subjektparameter
+
+------------------------------------------------------------------------
+
+# KOPFPARAMETER
+
+-   X-Bar ist ein Prinzip, aber die Position des Kopfes ist ein Parameter.
+    -   Linksköpfig (+kopf-initial) oder rechtsköpfig (-- kopf-initial)
+
+<!--- insert kopf.png --->
+
+------------------------------------------------------------------------
+
+# KOPFPARAMETER
+
+-   *Prinzip*: Die X-Bar-Theorie legt den Phrasenbau fest.
+    -   Verb + Objekt → V(erb)P(hrase)
+-   *Parameter*: Der Kopfparameter legt die Position des Kopfes fest.
+    -   Komplement -- Kopf
+    -   Kopf -- Komplement
+
+------------------------------------------------------------------------
+
+# NULL-SUBJEKTPARAMETER (PRO-DROP-PARAMETER)
+
+-   *Prinzip*: Jeder Satz hat ein Subjekt.
+
+-   *Parameter*: Es kann ein Null-Subjekt geben.
+
+-   
+
+    (13) 
+
+         a.  dt. Er/Sie schläft.
+
+-   
+
+    b.  dt. \*Schläft.
+
+-   
+
+    (14) 
+
+         a.  sp. Él/Ella duerme.
+
+-   
+
+    b.  sp. Duerme.
+
+-   
+
+    c.  pt. Ele/Ela dorme
+
+-   
+
+    d.  pt. Dorme
+
+------------------------------------------------------------------------
+
+# NULL-SUBJEKTPARAMTER (PRO-DROP-PARAMETER)
+
+-   *Prinzip*: Jeder Satz hat ein Subjekt.
+
+-   *Parameter*: Es kann ein Null-Subjekt geben.
+
+Im Spanischen kann das Subjekt phonetisch leer sein.
+
+Im Deutschen muss das Subjekt hörbar sein.
+
+(15) 
+
+     a.  sp. *pro* compra un libro.
+
+     b.  pt. *pro* compra um livro.
+
+(16) dt. Er/Sie kauft ein Buch.
+
+------------------------------------------------------------------------
+
+# SPRACHERWERB IM PRINZIPIEN UND PARAMETERMODELL
+
+-   Es gibt ein Zusammenspiel von allgemeingültigen Prinzipien der UG und konkreten Erfahrungen mit der Zielsprache.
+
+-   Über Konfrontation mit sprachlichen Daten (Input) legen Kinder den Wert eines Parameters für die Zielsprache fest.
+
+------------------------------------------------------------------------
+
+# AUFGABE 1
+
+-   Erläutern Sie anhand der Beispiele, wie im Rahmen des Prinzipien und Parametermodell der kindliche Spracherwerb erklärt wird.
+
+(17) 
+
+     a.  sp. para mi papá
+
+```         
+b. pt. para meu pai
+
+c. dt.  für meinen Vater
+
+d. trk. babam         için
+
+c. trk. Vater.mein für
+```
+
+------------------------------------------------------------------------
+
+# NACHBEREITUNG
+
+Bitte lesen Sie Gabriel, Christoph und Meisenburg, Trudel (2013): Romanische Sprachwissenschaft. Paderborn: W. Fink, Kap. 2.1., 2.2., 2.4.2., 2.5. (Link zu dem Buch: https://hds.hebis.de/ubffm/Record/HEB368967395).

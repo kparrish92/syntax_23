@@ -1,0 +1,51 @@
+---
+title: "08"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN Gabriel Martínez Vera Goethe-Universität MartinezVera\@em.uni-frankfurt.de 1
+
+WIEDERHOLUNG Bindung Bindungsprinzipien c-Kommando VP/TP-Adjunkte
+
+SYNTAKTISCHE BEWEGUNG Was können wir darstellen? Sätze in unterschiedlicher Komplexität (nullwertig, intransitiv, transitiv, ditransitiv) mit neutraler Wortstellung. Die Wortstellung ist das Ergebnis von Bewegung im Strukturbaum---und jede Abweichung davon ebenfalls. Jede Art von Bewegung muss motiviert werden---d.h., es müssen strukturelle Gründe vorliegen, weshalb ein Element bewegt werden muss. Diese werden als Merkmale (features) dargestellt.
+
+SYNTAKTISCHE BEWEGUNG Verbbewegung merge des Verbs in V move des Verbs nach v, bei ditransitiven Verben move des Verbs nach T Subjektbewegung merge des Subjekts in Spec,VP merge des Subjekts in Spec,vP bei ditransitiven Verben move des Subjekts nach Spec,TP Motivation Merkmalsabgleich zwischen Struktur und zu bewegenden Elementen
+
+SYNTAKTISCHE BEWEGUNG T hat Merkmale, die erfüllt werden müssen, nämlich EPP und Tempus. Das Verb kann das T-Merkmal erfüllen, da es selber eines besitzt. Das Subjekt kann das EPP-Merkmal erfüllen. (1) VP V' TP T\[Epp, T\] T' DP María A María V dormir dormir
+
+SYNTAKTISCHE BEWEGUNG Bei ditransitiven Verben gibt es zwei funktionale Köpfe, v und T, mit ihren jeweiligen Merkmalen
+
+(2) \[TP \_\_\_\_ \[T' T\[EPP,T\] \[vP \[DP la niña \[v' v\[kausativ\]\] \[VP unas flores \[V' dar \[PP a María \]\]\]\]\]\]\]
+
+KOPFBEWEGUNG VS ARGUMENTBEWEGUNG Köpfe bewegen sich aus ihrer merge-Position nach X, z.B. ein Verb nach T. Argumente bewegen sich aus ihrer merge-Position nach Spec,XP, z.B. ein Subjekt nach Spec,TP. Bewegung wird immer von Merkmalen der funktionalen Köpfe ausgelöst, z.B. EPP, T...
+
+FRAGESÄTZE Es gibt zwei Hauptarten von Fragesätzen: wh-Fragen (Ergänzungsfragen, wh-questions) (3) a. sp. ¿Qué venderá Carmen? b. pt. O que venderá a Carmen? Ja/Nein-Fragen (Entscheidungsfragen, yes/no questions) (4) sp. ¿Está María en su casa? pt. Está a Maria em casa?
+
+FRAGESÄTZE Interrogativkonstruktionen (Fragesätze) werden aus Deklarativsätzen (Aussagesätze) hergeleitet. (5) a. pt. A Maria dorme. c. b. pt. Dorme a Maria?
+
+VP V' TP t T' DP a Maria C dorme t C' t CP
+
+WH-BEWEGUNG Nimmt man an, dass im C das Merkmal \[+wh\] kodiert ist, dann lässt sich die Verbbewegung über T nach C an diesem Merkmal festmachen und zwar dergestalt, dass C\[+wh\] die Anhebung des Verbs nach C erfordert. Ist zusätzlich noch eine WhP vorhanden, dann wird diese nach Spec,CP bewegt Wh-Bewegung
+
+WH-BEWEGUNG (6) a. sp. Lu compró el libro. c. b. sp. ¿Qué compró Lu?
+
+Die whP wird in der Komplementposition von V basisgeneriert und dann zu Spec,CP bewegt.
+
+VP V' TP t T' DP Lui C ti C' tj CP tj comprój whP qué
+
+WAS BEWEGT SICH WOHIN? Annahmen: Das wh-Wort bewegt sich nach Spec,CP. Das finite Verb bewegt sich nach C. Das Subjekt verbleibt in Spec,TP. Evidenz: (7) a. sp. ¿Qué venderá María? b. pt. O qué venderá a Maria?
+
+WH-BEWEGUNG (8) sp. ¿Qué venderá Carmen? / sp. O qué venderá a Carmen? Das direkte Objekt wird erfragt. Die whP qué wird in der Komplementposition von V basisgeneriert und dann zu Spec,CP bewegt. (9) sp. ¿Quién venderá su casa? / pt. Quem venderá a sua casa? Das Subjekt wird erfragt. Die whP quién wird in Spec,VP basisgeneriert, dann zu Spec,TP (wegen EPP-Merkmal auf T) und endlich zu Spec,CP bewegt. (10) sp. ¿Dónde duerme el niño? / pt. Onde dorme o menino? Das Adjunkt wird erfragt. Die whP dónde wird als Adjunkt in der VP basisgeneriert und dann zu Spec,CP bewegt.
+
+WH-BEWEGUNG Das Fragewort macht es möglich, dass wir eine Frage als Frage erkennen. Die whP hat Skopus über die weiteren Elemente des Satzes, weil es sie c-kommandiert. Das Fragewort muss wegen UTAH (Uniformity of Theta Assignment Hypothesis) und Theta-Kriterium (eine DP muss eine Thatarolletragen) in der VP bzw. vP verkettet werden. Dann wird das wh-Element an den Satzanfang bewegt. Der Landeplatz für die wh-Bewegung ist Spec,CP. Die wh-Bewegung wird von V-nach-T-nach-C-Bewegung begleitet.
+
+JA/NEIN-FRAGEN Kein wh-Wort, keine wh-Bewegung nach Spec,CP. Das Verb bewegt sich nach C. Das Subjekt verbleibt in Spec,TP. (11) sp. ¿Llamó Juan? / pt. Telefonou o João? ABER die Ja/Nein-Fragen werden normalerweise nicht durch Inversion, sondern durch Intonation gebildet. Wir können also nicht davon ausgehen, dass sich das Verb in allen Fragekontexten nach C bewegt. (12) a. sp. ¿María está en la casa? / pt. A Maria está em casa? b. sp. ¿Juan compró el carro? / pt. O João comprou o carro?
+
+IN A NUTSHELL Kopfbewegung (z.B. Verbbewegung) Argumentbewegung (z.B. Subjektbewegung) Wh-Bewegung
+
+AUFGABE 1 Stellen Sie folgende Sätze im Strukturbaum dar. (1) a. sp. ¿Quién tomó el vino? a'. pt. Quem bebeu o vinho? b. sp. ¿Qué haces en las vacaciones? b'. pt. O que fez nas férias? c. sp. ¿Dónde venderá Carmen su casa? c'. pt. Onde venderá a Carmen a sua casa?
+
+NACHBEREITUNG
+
+Bitte lesen Sie Gabriel, Christoph und Meisenburg, Trudel (2014): Romanische Sprachwissenschaft. Paderborn: W. Fink Kap. 7.5.2. Link zu dem Buch - https://hds.hebis.de/ubffm/Record/HEB368967395)

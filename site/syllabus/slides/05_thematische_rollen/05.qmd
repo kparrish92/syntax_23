@@ -1,0 +1,357 @@
+---
+title: "05"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN
+Gabriel Martínez Vera
+Goethe-Universität
+MartinezVera@em.uni-frankfurt.de
+1
+
+WIEDERHOLUNG
+Merge verknüpft zwei syntaktische Einheiten, um ein neue syntaktische Einheit zu formen. 
+Move α erlaubt unter bestimmten Bedingungen, Elemente zu verschieben, also ihre Position innerhalb der Struktur zu verändern. 
+Kopfbewegung
+XP-Bewegung 
+EPP: Jeder finite Satz muss ein Subjekt in der Subjektposition haben. 
+pro: leeres Subjektpronomen finiter Sätze 
+PRO: leeres Subjektpronomen infiniter Sätze 
+
+
+ARGUMENTSTRUKTUR
+Verben verlangen Argumente, die an der Handlung beteiligt sind. 
+Vergleichen Sie die folgenden Sätze: 
+(1)	a. sp. Nevaba. 				a’. pt. Nevava.
+	b. sp. María duerme 			b’. pt. A Maria dorme.
+	c. sp. María va a Buenos Aires.		c’. pt. A Maria vai para o Porto.
+	d. sp. María vive en Buenos Aires		d’. pt. A Maria mora em Porto.
+	e. sp. María se rompió la pierna.		e’. pt. A Maria fraturou a perna.
+	f. sp. María abraza a su mamá.		f’. pt. A Maria abraça a sua mãe.
+	g. sp. María le ofrece un ramo de flores 	g’. pt. A Maria oferece um ramo de flores
+		a su papá. 				ao seu pai. 	 
+Anzahl von Argumenten: 0,1,2,3
+Semantischer Typ des Arguments: Thetarolle 
+
+
+ARGUMENTSTRUKTUR
+
+Verb
+Argumentstruktur
+(Anzahl der Argumente)
+Thetaraster
+(Semantische Rollen der Argumente)
+Subkategorisierungsrahmen 
+(Syntaktische Rollen der Argumente)
+sp. nevar
+pt. nevar 
+0
+-
+-
+sp. dormir
+pt. dormir 
+1
+Agens
+DP V
+sp. ir
+pt. ir 
+2
+<Agens, Ziel>
+DP V PP
+sp. vivir
+pt. morar 
+2
+<Agens, Ort>
+DP V PP
+sp. romperse
+pt. fratuar 
+2
+<Experiencer, Thema>
+DP V DP
+sp. abrazar
+pt. abraçar
+2
+<Agens, Patiens>
+DP V DP
+sp. ofrecer
+pt. oferecer 
+3
+<Agens, Thema, Rezipient>
+DP V DP DP
+
+THETATHEORIE
+Wenn ein Prädikat eine Thetarolle zu vergeben hat, dann muss diese Rolle auch von einem Argument aufgenommen werden; wenn nicht, dann ist der Satz ungrammatisch. 
+(2)	sp. *Ana compró. / pt. *A Ana comprou.
+Ein und dasselbe Argument kann nicht mehrere Thetarollen aufnehmen. 
+
+
+THETA CRITERION
+
+Jedes Argument muss genau eine Thetarolle erhalten und jede Thetarolle muss genau einem Argument zugewiesen werden. 
+(Chomsky 1981: 36)
+
+
+THETATHEORIE
+Wo werden die Argumentstruktur erfüllt und die Thetarollen vergeben? 
+In VP 
+Die Argumente stehen in einer bestimmten semantischen Rolle zum Prädikat. 
+Das Verb bestimmt die thematischen Rollen (θ-Rollen) und es theta-markiert seine Argumente. 
+Die Thetarollen sind Teil des lexikalischen Eintrags des Verbs. 
+
+
+THEMATISCHE ROLLEN
+Das Agens ist eine belebte Einheit, Urheber oder Ausführender der ausgedrückten Handlung.
+(3) 	María[Agens] schreibt eine Postkarte.
+Das Thema ist eine von der Handlung betroffene Einheit (meist nicht belebt).
+(4)	Maria schreibt eine Postkarte[Thema].
+Das Patiens ist eine von der Handlung betroffene Einheit (belebt) und erleidet die Handlung bewusst.
+Maria[Patiens] bricht sich den Arm.
+
+
+THEMATISCHE ROLLEN
+Es gibt ein Rezipient, wenn eine Änderung in Bezug auf die Position eines weiteren Elements ausgedrückt wird. 
+(6)	Eva[Rezipient] erhält eine Postkarte.
+Der Experiencer ist eine belebte Entität oder ein Träger eines psychologischen Vorgangs.
+(7)	Maria[Experiencer] mag Eva. 
+Der Ort (auch Lok) ist ein lokaler Anhaltspunkt, der im Geschehen inbegriffen ist.
+(8)	Maria wohnt in Osnabrück[Ort].
+Das Ziel (auch Goal) ist eine konkrete oder abstrakte Einheit, auf die ein Prozess oder eine Handlung ausgerichtet ist.
+(9)	Maria fährt nach Osnabrük[Ziel].
+
+THEMATISCHE ROLLEN
+Die thetamatischen Rollen sind syntaktischen Positionen zugeordnet. 
+Die syntaktischen Ausdrücke behalten die thetamatischen Rollen auch dann, wenn sie im Laufe der Derivation in eine andere Position geraten: 
+(10) 	a. Der Architekt[Agens] hat das Haus[Thema] entworfen. 
+	b. Das Haus[Thema] wurde (von einem Architekten[Agens]) entworfen. 
+
+
+THETAROLLENVERGABE
+Die Zuweisung der Thetarollen erfolgt innerhalb der VP.
+Komplement:  Thetarolle vom verbalen Kopf 
+Spec,VP:  Thetarolle von V’
+(11)	a.			      b. 			           c.
+
+
+VP
+V
+V’
+DP
+leer
+ler
+DP
+Thema
+Agens
+VP
+V
+V’
+dormir
+dormir
+DP
+Agens
+VP
+V
+V’
+DP
+abrazar
+abraçar
+DP
+Patiens
+Agens
+
+THEMATISCHE ROLLEN
+Die Thetarolle des Subjekts variiert je nach Typ des Komplements: 
+(12) 	a. engl. Peter broke the window.		Agens 
+	b. engl. Peter broke his arm. 		Patiens 
+
+
+vP-SCHALEN (LARSON 1988) 
+Konstruktionen mit dreiwertigen Verben werden als komplexe Strukturen aufgefasst: 
+Kombination aus V (+lexikalische Bedeutung) und einem kausativen Kopf v. 
+Ein erstes Agens veranlasst ein zweites Agens dazu, eine Handlung auszuführen. 
+Sätze mit ditransitiven Verben können als kausative Konstruktionen paraphrasiert werden. 
+(13) 	a. Peter put the book on the table.
+	b. Peter had the book be on the table. 
+
+13
+
+vP-SCHALEN (LARSON 1988) 
+(13)
+vP
+v
+v’
+VP
+V
+V’
+PP
+on the table
+‘be’
+DP
+the book
+‘cause’
+DP
+Peter
+
+UTAH: UNIFORMITY OF THE THETA ASSIGNMENT HYPOTHESIS (BAKER 1988)
+Thetarollenzuweisung ist an bestimmten strukturellen Positionen gebunden. 
+Thetarollen werden in folgenden Konfigurationen vergeben:
+Thema: Spec,VP 
+Ort/Rezipient: Komplement von V 
+Agens: Spec,vP 
+
+
+THETAROLLENVERGABE BEI DREIWERTIGEN VERBEN 
+(14)
+vP
+v
+v’
+VP
+V
+V’
+PP
+en la mesa
+na mesa
+t
+DP
+el libro
+o livro
+poner
+por
+DP
+Pedro
+O Pedro
+Agens
+Thema
+Ort
+
+THETAROLLENVERGABE BEI DREIWERTIGEN VERBEN 
+Was ist neu/anders?
+Es gibt zwei Objekte in der VP.
+Spec,VP ist von dem direkten Objekt gefüllt (nicht vom Subjekt).
+Es gibt eine Projektion einer weiteren Verbaldomäne, vP.
+Das Subjekt ist in Spec,vP
+Es gibt bewegung von V nach v 
+
+
+DP-HYPOTHESE(FUKUI & SPEAS 1986; ABNEY 1987) 
+D bildet eine eigene funktionale Projektion aus.
+NP-Analyse: DP in Spec,NP 
+DP-Analyse: DP als Kopf einer funktionalen Projektion 
+(15)	a.				b. 
+
+DP
+D
+D’
+NP
+N
+N’
+destrucción
+destruição
+PP
+de la casa
+da casa
+laa
+NP
+N
+N’
+destrucción
+destruição
+PP
+de la casa
+da casa
+DP
+la
+a
+
+DP-HYPOTHESE
+Es gibt Parallelen zwischen D und T/C:
+D spielt in Bezug auf N die gleiche Rolle wie C und T bezüglich V. 
+D, T und C sind nicht rekursiv. 
+Das Auftreten von D ist auf den Kontext der Nominalgruppe beschränkt—ebenso wie Elemente, die in T und C basisgeneriert werden, an die Präsenz eines (Voll-)Verbes gebunden sind. 
+Ohne die jeweilige funktionale Kategorie (D beim Nomen, T/C beim Verb) können weder Nomina noch Verben keine Referenz aufbauen. 
+
+
+ERWEITERTE PROJEKTIONEN (GRIMSHAW 1991) 
+(16)	a.				b.
+DP
+D
+D’
+NP
+N
+N’
+destrução
+PP
+da casa
+a
+TP
+T
+T’
+VP
+V
+V’
+hecho
+DP
+la tarea
+ha
+DP
+Susana
+t
+
+DP-HYPOTHESE
+Wird jede nominale Konstruktion als DP aufgefasst? 
+(17a): kein Determinant, wenn nominale Form, gibt es eine Anredeform (Vokativ) 
+(17b): kein Determinant bei Prädikatsnomen
+(17c): Determinant, wenn ein bestimmter Professor gemeint ist.
+(17) 	a. sp. Pedro, ven.
+	b. pt. O Pedro é professor. 
+	c. sp. Pedro es el professor (de esta clase). 
+Higginbotham (1985): Nominale Konstruktionen haben eine Referenz, wenn ein overter Determinant vorhanden ist. 
+
+
+DP-HYPOTHESE
+(18) 	a. Vokativ 		b. DP
+NP
+N
+N’
+joven
+Pedro
+DP
+D
+D’
+NP
+N
+N’
+casa
+María
+la
+a
+
+IN A NUTSHELL
+Argumentstruktur
+Theta criterion (Chomsky 1981)
+Thetarollen
+vP
+DP-Hypothese 
+
+
+AUFGABE 1
+Bestimmen Sie die Thetarollen von den fettgedruckten Phrasen. 
+(1) 	a. Maria gibt der Frau die Schlüssel.
+	b. Maria gibt der Frau die Schlüssel.
+	c. Susanne spielt im Garten.
+	d. Maria fürchtet große Hunde. 
+	e. Die Frau erhält ein Paket.
+	f. Maria schlägt seinen Bruder. 
+
+AUFGABE 2
+Stellen Sie folgende Sätze im Strukturbaum dar. Kennzeichnen Sie die Thetarollenvergabe durch Pfeile. 
+(1)	a. Ana va al supermercado.
+	a’. A Ana vai ao supermercado.
+	b. La mamá le dio a su hermano.*
+	b’. A mãe ofereceu um carro ao pai.
+	c. El chico quería ir al cine con los amigos.
+	c’. O rapaz queria ir ao cinema com os amigos.
+	d. Carmen compra una casa.
+	d’. A Carmen compra uma casa.
+*Stellen Sie le und dio zusammen unter V/v dar.
+

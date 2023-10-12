@@ -1,0 +1,77 @@
+---
+title: "09"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN Gabriel Martínez Vera Goethe-Universität MartinezVera\@em.uni-frankfurt.de 1
+
+WIEDERHOLUNG Kopfbewegung (z.B. Verbbewegung) Argumentbewegung (z.B. Subjektbewegung) Wh-Bewegung
+
+transitive Verben zweiwertig sp. comprar, comer pt. comprar, comer dreiwertig sp. dar, ofrecer pt. dar, oferecer
+
+intransitive Verben (normale) intransitive/unergative sp. dormir, trabajar, andar pt. dormir, trabalhar, andar ergative/unakkusative sp. aparecer, morir, caer pt. aparecer, morer, cair
+
+VERBTYPEN
+
+TRANSITIVE (ZWEIWERTIGE) VERBEN (1) TP T T' VP V' DP la tarea ha DP Susana t NOM ACC V hecho Thema Agens
+
+TRANSITIVE (DREIWERTIGE) VERBEN (2) TP T T' vP v' DP o livro deuj DP A Carmeni ti NOM ACC tj VP V' Agens Thema tj DP à Maria Rezipient DAT
+
+PASSIV Anhand von Passivsätzen haben wir den Unterschied zwischen strukturellen und inhärenten Kasus verdeutlicht. (3)   a. sp. Carmen compró este carro. b. pt. A Carmen comprou este carro. Kasus: AKK, Thetarolle: THEMA (4)   sp. Este carro fue comprado. pt. Este carro foi comprado. Kasus: NOM, Thetarolle: THEMA
+
+PASSIV In der Passivkonstruktion kann die Thetarolle Agens nicht vergeben werden. Die passivische Verbform kann dem Objekt des Aktivsatzes den Kasus Nominativ zuweisen. (5) TP T T' VP V' t fue foi DP Este carro Este carro NOM Thema V comprado comprado
+
+PASSIV Stellen Sie die Baumstruktur folgendes Satzes dar. Kennzeichen Sie Kasus- und Thetarollenvergabe durch Pfeile. (6) a. sp. El libro fue escrito por mí. a'. pt. O livro foi escrito por mim.
+
+PASSIV (7)
+
+TP T T' VP fue foi DP El libro O livro NOM V' t Thema V escrito escrito VP PP por mí por mim
+
+(NORMALE) INTRANSITIVE/UNERGATIVE VERBEN Die unergativen Verben vergeben die Thetarolle AGENS, aber keinen Kasus AKK. (8) TP T T' VP V' duermej dormej DP Carmeni A carmeni ti NOM tj Agens
+
+ERGATIVE/UNAKKUSATIVE VERBEN Die unakkusativen Verben vergeben die Thetarolle THEMA, aber keinen Kasus AKK. (9)
+
+TP T T' VP V' apareciój apareceuj DP Un tesoroi Um tesouroi ti NOM tj Thema
+
+ERGATIVE/UNAKKUSATIVE VERBEN Bei den ergativen (unakkusativen) Verben geht man davon aus, dass das einzige Argument ein direktes Objekt (internes Argument) ist, und somit in der kanonischen Objektposition generiert und später in die Subjektposition verschoben wird. Die Subjekte von ergativen (unakkusativen) Verben sind vergleichbar mit den Subjekten in Passivsätzen. Die ergativen (unakkusativen) Verben sind nicht passivierbar.
+
+UNERGATIVE VS UNAKKUSATIVE VERBEN Bei unergativen Verben ist das einzige Argument ein externes Argument. Bei ergativen (unakkusativen) Verben ist das einzige Argument ein internes Argument.
+
+PASSIV VS UNAKKUSATIVE VERBEN Bei Passivkonstruktionen bewirkt die Passivmorphologie, dass das Verb keinen strukturellen Kasus AKK zuweisen und keine Agensthetarolle vergeben kann. Bei ergativen (unakkusativen) Verben ist diese Eigenschaft inhärent.
+
+WIE IDENTIFIZIERT MAN UNAKKUSATIVE VERBEN? Absolute Partizipalkonstruktionen: diese sind bei ergative/unakkusativen Verben möglich, bei unergativen Verben nicht (10) a. sp. Llegado a casa, llamó a su amigo.\
+a'. pt. Chegado a casa, telefonou ao seu amigo. unakkusativ b. sp. *Dormido todo el día, se levantó a las ocho. b'. pt.* Dormido todo o dia, acordou às oito horas. unergativ
+
+WIE IDENTIFIZIERT MAN UNAKKUSATIVE VERBEN? Bei transitiven und ergativen/unakkusativen ergativen Verben ist eine adjektivische Verwendung von Partizipien möglich. (11) a. sp. Un hijo maltratado por su mamá transitiv a.' pt. Um filho maltratado por a sua mãe b. sp. Un tesoro recientemente aparecido unakkusativ b'. Pt. Um tesouro recentemente aparecido c. *Un perro muy ladrado unergativ c'.* Um cão muito ladrado
+
+WIE IDENTIFIZIERT MAN UNAKKUSATIVE VERBEN? Stellen Sie die Baumstruktur folgender Sätze verkürzt dar. Kennzeichen Sie Kasus- und Thetarollenvergabe durch Pfeile. (12) a. sp. María llamó. a'. pt. A Maria telefonou. b. La hoja cayó. b'. A folha caiu.
+
+(13) TP T T' VP V' llamój telefonouj DP Maríai A Mariai ti NOM tj Agens
+
+(14) 
+
+TP T T' VP V' cayój caiuj DP La hojai A folhai ti NOM tj Thema
+
+ANHEBUNGSVERBEN\
+Anhebung eines Subjekts in die strukturell höhere Subjektposition des Matrixsatzes
+
+(15) TP T T' VP V' parecei parecei DP el niñoj o meninoj NOM ti TP T' T dormirk dormirk Agens VP V' tk tj
+
+KONTROLLVERBEN Subjektkontrollinfinitive (16) a. sp. Juani promete PROi leer el libro. a'. pt. O João promete PROi ler o livro. b. sp. Juani quiere PROi leer el libro. b'. pt. O Joãoi quer PROi ler o livro. Objektkontrollinfinitive (17) a. sp. Juan convenció a Maríai de PROi lavar el carro. a'. pt. O João convenceu à Mariai a PROi lavar o carro. b. sp. Juan obligó a Maríai a PROi lavar el carro. b'. pt. O João obrigou à Mariai a PROi lavar o carro.
+
+(18) TP T T' VP V' promete promete DP Juani O Joãoi t CP C' e TP T' leer ler PROi t VP V' t t DP el libro o livro SUBJEKTKONTROLLE
+
+(19) OBJEKTKONTROLLE CP C' TP T' lavar lavar PROi VP V' t t DP el carro o carro C a TP T T' vP v' obligó obrigou DP Juan O João t t VP V' DP a Maríai à Maríai t
+
+IN A NUTSHELL Verbtypen transitive Verben: zweiwertige und dreiwertige intransitive Verben: unergative und unakkusative Anhebungsverben Kontrollverben Passiv
+
+AUFGABE 1 Stellen Sie die Baumstruktur folgender Sätze dar. Kennzeichen Sie Kasus- und Thetarollenvergabe durch Pfeile. (1) a. sp. El joven bailó en la discoteca. a'. pt. O rapaz dançou na discoteca. b. sp. Las rocas caen de la montaña. b'. pt. Rocas caiem da montanha. c. sp. Estos estudiantes llegaron temprano. c'. pt. Estes estudantes chegaram cedo.
+
+AUFGABE 2 Stellen Sie die Baumstruktur folgender Sätze dar. (1) a. sp. Este carro será vendido mañana. a'. pt. Este carro será vendido amanhã b. sp. El trabajo fue hecho por ella. b'. pt. O trabalho foi feito por ele
+
+AUFGABE 3 Stellen Sie folgende Sätze verkürzt im Strukturbaum dar. (1) a. sp. Ana parece haber comprado una casa. a'. pt. A Ana parece ter comprado uma casa. b. sp. Ana prefiere comprar una casa. b'. pt. A Ana prefere comprar uma casa. c. sp. Ana persuade a Pedro comprar una casa. c'. pt. A Ana persuade o Pedro a comprar uma casa.
+
+NACHBEREITUNG
+
+Bitte lesen Sie Gabriel, Christoph und Meisenburg, Trudel (2014): Romanische Sprachwissenschaft. Paderborn: W. Fink Kap. 7.5.1. Link zu dem Buch - https://hds.hebis.de/ubffm/Record/HEB368967395)

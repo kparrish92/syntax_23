@@ -1,0 +1,81 @@
+---
+title: "Untitled"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN Gabriel Martínez Vera Goethe-Universität MartinezVera\@em.uni-frankfurt.de 1
+
+WIEDERHOLUNG lexikalische und funktionale Kategorien Konstituententests Substitutionstest Pronominalisierungstest Fragetest Permutationstest Tilgungstest Koordinationstest
+
+2
+
+PHRASEN Der Begriff der Phrase wird zur Bezeichnung für eine Menge von syntaktischen Elementen verwendet, die eine Konstituente (oder Wortgruppe) bilden. Jede Phrase hat ein 'dominantes' Element, einen 'Kopf', nach dem sie benannt wird. Nominalphrase (NP) Verbalphrase (VP) Adjektivphrase (AP) Präpositionalphrase (PP) Adverbialphrase (AdvP)
+
+PHRASEN Kopfprinzip Jede Phrase hat genau einen Kopf. Phraseprinzip Jeder Kopf projiziert eine Phrase. Der Kopf bestimmt die Eigenschaften der gesamten Phrase. Binaritätsprinzip Jede syntaktische Struktur ist binär verzweigend. (1) a. \[A B C \] Richtig b. \[A B C D \] Falsch
+
+PHRASENBAU Die Prinzipien des Phrasenbaus werden im X-Bar-Schema festgelegt. Das Komplement ist eine Konstituente, die ein Argument des Phrasenkopfes realisiert. Komplemente werden mit der Zwischenprojektion verbunden, links oder rechts (abhängig davon, ob der Kopf rechts oder links steht). X = Kopf; YP = Komplement (2) a. \[XP (ZP) \[X' X (YP) \]\] b.
+
+(ZP) XP X (YP) X'
+
+PHRASENBAU Spezifikatoren sind nicht rekursiv d.h. pro Phrase nur eine Spezifikatorposition. Spezifikatoren sind immer links. X = Kopf; ZP = Spezifikator (3) a. \[XP (ZP) \[X' X (YP) \]\] b.
+
+(ZP) XP X (YP) X'
+
+V(ERBAL)P(HRASE) Das Verb in VP ist nicht flektiert. Mit dem Dreieck stellt man verkürzt die Struktur einer Phrase dar. (4) a. b.
+
+```         
+a. [V’ aprobar [DP el examen ]]         b. [V’ viver [DP em Lisboa ]] 
+```
+
+V DP V' el examen aprobar V PP V' em Lisboa viver
+
+N(OMINAL)P(HRASE) Auch nominale Köpfe können Komplemente zu sich nehmen (die Ergänzung wird von N gefordert). (5)
+
+```         
+[N’ destrucción [PP de la casa ]]   
+[N’ destruição [PP da casa ]]       
+```
+
+N PP N' de la casa da casa destrucción destruição
+
+D(ETERMINANTEN)P(HRASE) Determinierer erfordern ein Nomen. Nomina erfordern nicht unbedingt einen Determinierer. (6)\
+(Spec,DP) DP D D' (Spec,NP) NP N N' destrucción destruição PP de la casa da casa la a
+
+A(DJEKTIV)P(HRASE) Spec,XP und Komplement,XP können leer sein. (7) (8) AP A A' orgulloso orgulhoso PP de María dele AdvP muy muito AP A A' buen bom NP libro livro DP D D' un um
+
+P(RÄPOSITIONAL)P(HRASE) (9) (10) DP D D' la -a NP caja caixa PP P P' adentro de dentro d- AdvP bien bem DP D D' la as NP novia meninas PP P P' con com
+
+ADV(ERBIAL)P(HRASE) (11) (12) AdvP Adv Adv' lentamente lentamente AdvP Adv Adv' lentamente lentamente AdvP muy muito
+
+ADJUNKTE Adjunkte sind zusätzliche Informationen (fakultative Konstituenten). Die sind Phrasen, die nicht in einer thematischen Beziehung zum Kopf stehen. WP = Adjunkt (13) ZP XP X YP X' WP X'
+
+ADJUNKTE (14) en el 2000 pelos inimigos NP N N' N' PP de la ciudad da casa PP destrucción destruição D' DP la a D
+
+KOMPLEMENT VS. ADJUNKT (15) a. sp. Juan vivió en Londres. Komplement b. sp. *Juan vivió. (16) a. sp. Juan murió en Londres. Adjunkt b. sp. Juan murió. (17) a. pt. As pessoas destroem a cidade com bombas. b. pt. As pessoas destroem a cidade. Komplement c. pt.* As pessoas destroem com bombas. Adjunkt
+
+KOMPLEMENT VS. ADJUNKT (18) (19) V V' PP en Londres vivió V V' V' PP en Londres murió
+
+X-BAR-THEORIE Alle Kategorien lassen sich in gleicher Weise zu Phrasen erweitern. Die interne Struktur von Phrasen besteht aus einem gleichartigen Muster. Es ist eine sprachübergreifende Vorlage für phrasale und sententiale Strukturen.
+
+(ZP) XP X (YP) X'
+
+X-BAR-THEORIE XP ist eine maximale Projektion. X (oder X0) ist eine minimale Projektion. XP ist die Mutter von ZP (=Spec) und X'. ZP ist die Tochter von XP. ZP ist die Schwester von X'. YP (=Komplement) ist die Schwester von X.
+
+(ZP) XP X (YP) X'
+
+X-BAR-THEORIE Knoten (nodes): Stellen im Baum, an denen eine Verästelung vorliegt Zweige/Kanten (branches): die Verbindungslinien Terminale/terminale Knoten: einzelne Wörter
+
+(ZP) XP X (YP) X' Wort
+
+X-BAR-THEORIE Der Phrasenkopf ist das 'tonangebende' Element, das bestimmt, ob in der Phrase ein Komplement möglich ist, und zugleich die strukturelle Wertigkeit der gesamten Phrase determiniert. Der Phrasenkopf gibt seine grammatischen Merkmale im Strukturbaum nach oben weiter ('projiziert'). Der Kopf entspricht dem minimalen Projektionsniveau (XP stellt die maximale Projektion dar).
+
+X-BAR-THEORIE Ein Komplement (YP) ist eine Konstituente, die ein Argument des Phrasenkopfs repräsentiert und im Strukturbaum als dessen Schwester notiert wird. Die Spezifikatorposition (ZP) schließt den Aufbau der Phrase ab. Der Spezifikator ist nicht rekursiv und erscheint im Strukturbaum als Schwester von X' und Tocher von XP. Ein Adjunkt (RP, WP) ist eine fakultative Konstituente, die im Strukturbaum als Schwester von X' notiert wird.
+
+RP X' X YP X' WP X' XP ZP
+
+AMBIGUITÄT IM PHRASENBAU (20) a. sp. El hombre vio a la señora con binoculares. b. pt. O homem viu a velha com o binóculo. (21) a. sp. El hombre vio \[ a la señora con binoculares \]. b. pt. O homem viu \[ a velha com o binóculo \]. Adjunkt zu dem Nomen sp. 'señora', pt. 'velha' c. El hombre vio a la señora \[ con binoculares \]. d. pt. O homem viu a velha \[ com o binóculo \]. Adjunkt zu dem Verb sp. 'vio', pt. 'viu' 22
+
+IN A NUTSHELL X-Bar-Theorie Spezifikator Kopf Komplement Adjunkt VP, NP, DP, AdjP, AdvP, PP maximale Projektion minimale Projektion
+
+AUFGABE Stellen Sie folgende Phrasen in der Baumstruktur dar (am besten machen Sie diese Aufgaben per Hand): (1) a. sp. el nuevo presidente de Bolivia a'. pt. o novo presidente de Portugal b. sp. las ventajas de trabajar en Argentina b'. pt. as vantagens de trabalhar em Lisboa c. sp. con un telescopio c'. pt. com um telescópio d. sp. escribir un libro de poesía d'. pt. escrever um livro de poesias
