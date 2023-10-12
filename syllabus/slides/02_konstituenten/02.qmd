@@ -1,0 +1,200 @@
+---
+title: "02"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN 
+
+Sitzung 02
+
+
+------------------------------------------------------------------------
+
+## WIEDERHOLUNG 1 {.smaller}
+
+Poverty of Stimulus
+
+Positive Evidenz sind die Äußerungen, die das Kind im Lauf der Sprachentwicklung hört. Negative Evidenz dagegen sind Informationen darüber, welche Äußerungen nicht wohlgeformt sind.
+
+Eine negative Evidenz liegt z.B. dann vor, wenn ein Kind eine nicht wohlgeformte Äußerung macht und daraufhin von seinen Eltern korrigiert wird.
+
+Kinder werden praktisch nur mit positiver Evidenz konfrontiert.
+
+Kinder lernen die Grammatik ihrer Muttersprache.
+
+------------------------------------------------------------------------
+
+## WIEDERHOLUNG 2 {.smaller}
+
+-   Eine Einzelsprache besteht aus:
+
+\- einem mentalen Lexikon, das alle lexikalischen und funktionalen Kategorien enthält einem Regelsystem, d.h. die Grammatik, die die im Lexikon enthaltenen Kategorien zu komplexen Strukturen determiniert die Grammatik besteht aus universell gültigen Prinzipien Prinzipien enthalten Parameter (mit entsprechender Merkmalsspezifizierung für einzelsprachliche Besonderheiten) Kopfparameter, Null-Subjektparameter
+
+------------------------------------------------------------------------
+
+## BRAINSTORMING {.smaller}
+
+Welche Wortarten/syntaktischen Kategorien und Satzfunktionen kennen Sie? Wie würden Sie die Wortarten einteilen? Gibt es Unterschiede?
+
+**lexikalische Kategorien**
+
+Nomina: sp. libro, pt. livro
+
+Verben: sp. escribir, pt. escrever
+
+Adjektive: sp. feliz, pt. feliz
+
+Adverbien: sp. lentamente, pt. devagar
+
+Präpositionen: sp. con, de, pt. com, de
+
+**funktionale Kategorien**
+
+Determinanten: sp. el, la, pt. a, o
+
+Quantifizierer: sp. todos, pt. todos
+
+Pronomina: sp. yo, ellos, pt. eu, eles
+
+Konjunktionen: sp. y, pt. e
+
+Komplementierer: sp. que, pt. que Auxiliare: sp. haber, pt. ter
+
+------------------------------------------------------------------------
+
+## WORTARTEN/SYNTAKTISCHE KATEGORIEN {.smaller}
+
+offene Klasse Nomina Verben Adjektive Adverbien
+
+Die offene Wortklasse kann durch Wortbildungsregeln jederzeit erweitert werden.
+
+geschlossene Klasse Determinanten Präpositionen Konjunktionen Komplementierer
+
+Die geschlossene Wortklasse ist wenig veränderlich.
+
+------------------------------------------------------------------------
+
+## WORTARTEN/SYNTAKTISCHE KATEGORIEN {.smaller}
+
+WORTARTEN ⍯ SATZFUNKTIONEN Wortarten sind nicht mit bestimmten Satzfunktionen gleichzusetzen. Das Wort „Buch" ist ein Nomen.
+
+(1) 
+
+    a.  Ich lese das Buch. Objekt
+
+```{=html}
+<!-- -->
+```
+b.  Das Buch liegt auf dem Tisch. Subjekt
+
+Sätze bestehen nicht aus einzelnen Wörtern, sondern aus zusammenhängenden Wortgruppen. Wortgruppen erfüllen im Satz bestimmte Funktionen und werden traditionell als Satzteile oder Satzglieder bezeichnet.
+
+SATZANALYSE Subjekt: Über wen oder was wird etwas ausgesagt? (2) a. dt. Carmen kauft eine Ananas. b. sp. Carmen compra una piña. c. pt. Carmen compra um abacaxi. Prädikat: Über wen oder was wird etwas ausgesagt? (3) a. dt. Carmen kauft eine Ananas. b. sp. Carmen compra una piña. c. pt. Carmen compra um abacaxi. Objekt: Was oder wen? (4) a. dt. Carmen kauft eine Ananas. b. sp. Carmen compra una piña. c. pt. Carmen compra um abacaxi.
+
+---
+
+## SATZANALYSE {.smaller}
+
+SATZANALYSE Attribut: Was für ein X? Wie ist X beschaffen? (5) a. dt. eine gelbe Ananas Adjektiv b. sp. una piña de Ecuador. Adverb Adverbial Bestimmung/Umstandsergänzung: Unter welchen Umständen vollzieht sich die Handlung? (6) a. dt. Carmen kauft eine Ananas im Supermarkt. b. pt. Carmen compra um abacaxi no supermercado.
+
+---
+
+## KLASSIFIKATIONSKRITERIEN {.smaller}
+
+KLASSIFIKATIONSKRITERIEN Wie werden die Eigenschaften von den unterschiedlichen Wortarten repräsentiert? Welche Kriterien können wir zur Unterscheidung von Wortarten anlegen? semantische Klassifikationskriterien morphologische Klassifikationskriterien syntaktische Klassifikationskriterien
+
+---
+
+# SEMANTISCHE KLASSIFIKATIONSKRITERIEN {.smaller}
+Nomina bezeichnen z.B. Gegenständer und Personen. sp. casa, Susana, pt. gato, João Verben bezeichnen z.B. Handlungen. sp. correr, caminar, reír, pt. ir, rir, fazer Adjektive bezeichnen z.B. Zustände. sp. bonito, feo, pt. feliz, triste Adverbien bezeichnen z.B. Art und Weise. sp. bien, mal, pt. bem, mal Präpositionen bezechnen z.B. Ortsangaben. sp. debajo de, pt. debaixo de
+
+
+nicht flektierbar flektierbar Nomina Verben Adjektive Determinanten Pronomina Adverbien Präpositionen Konjuktionen Komplementierer MORPHOLOGISCHE KLASSIFIKATIONSKRITERIEN
+
+Nomina Numerus: sg, pl Genus: maskulin, feminin, neutrum
+
+Was unterscheidet Nomina und Verben morphologisch? Verben Person: 1, 2, 3 Numerus: sg, pl Tempus: Präsens, Futur, Perfekt Modus: Indikativ, Konjunktiv, Imperative Aspekt: imperfektiv, perfektiv Aktionsart: aktiv, passiv
+
+---
+
+# MORPHOLOGISCHE KLASSIFIKATIONSKRITERIEN {.smaller}
+
+MORPHOLOGISCHE KLASSIFIKATIONSKRITERIEN Bestimmte Derivationsmorpheme verbinden sich mit bestimmten Kategorien. (7) sp. in-/im-, pt. im- + Adjektiv a. sp. incómodo, pt. impossivel b. sp. improbable, pt. improvável c. sp. *incasa, pt.* immedo d. sp. *indentro, pt.* imdentro (8) Adjektiv + -mente a. sp. tristemente, pt. tristemente b. sp. *mesamente, pt.* computadormente
+
+# SYNTAKTISCHE KLASSIFIKATIONSKRITERIEN Distribution: {.smaller}
+
+unterschiedliche Kategorien sind unterschiedlich verteilt. (9) a. sp. Susana es muy inteligenteAdj / *hablarV /* hambreN. b. pt. Ele é muy inteligenteAdj / *falarV /* fomeN. c. sp. Susana sabe *inteligenteAdj / hablarV /* hambreN. d. pt. Ele sabe *inteligenteAdj / falarV /* fomeN. e. sp. Susana tiene *inteligenteAdj /* hablarV / hambreN. f. pt. Não tenho *inteligenteAdj /* falarV / fomeN.
+
+---
+
+# SYNTAKTISCHE KLASSIFIKATIONSKRITERIEN {.smaller}
+
+Modifikation: bestimmte Kategorien können durch bestimmte Kategorien modifiziert werden. (9) a. pt. A senhora é realmenteAdv simpáticaAdj. b. pt. Queremos realmenteAdv saberV a verdade. c. pt. É realmenteAdv bastanteAdv tarde. d. pt. É uma realmenteAdv casaN. Adverbien können Adjektive, Adverbien und Verben modifizieren.
+
+---
+
+# SYNTAKTISCHE KLASSIFIKATIONSKRITERIEN {.smaller}
+
+Nomina werden durch Adjektive modifiziert. (10) a. Es un libroN interesanteAdj. b. Es una señoraN simpáticaAdj.
+
+---
+
+# FUNKTIONALE KATEGORIEN {.smaller} 
+
+Die funktionalen Kategorien zeichnen sich dadurch aus, dass sie eine grammatische Informationen tragen, aber wenigen/keinen semantischen Inhalt. Determinanten Quantifizierer Pronomina Konjunktionen Komplementierer Auxiliare
+
+---
+
+# DETERMINANTEN UND QUANTIFIKATOREN {.smaller}
+
+Artikel: sp. el, la, los, las, pt. o, a, os, as Demonstrativa: sp. este, ese, pt. este, esse Quantifizierer: sp. todos, algún, cada, ningún, pt. todos, algum, cada, nenhum
+
+---
+
+DETERMINANTEN UND QUANTIFIKATOREN Determinanten und Quantifikatoren sind obligatorisch bei Singular Zählnomen, Adjektive nicht. (11) a. sp. Leí la/esta revista. b. sp. *Leí revista. c. sp. Leí la/esta revista bonita. Nur ein Determinant kann ein Nomen begleiten. (12) a. pt. o/este livro. b. pt.* o este livro
+
+DETERMINANTEN UND QUANTIFIKATOREN Determinanten und Quantifikatoren sind nur mit bestimmten Nomina kombinierbar. Die Zählnomen (count nouns) besitzen eine Numerusunterscheidung. Die Massenomen (mass nouns) besitzen keine Numerusunterscheidung. Sie lassen sich mit Zahlwort nicht verbinden. (13) a. sp. Vi varias estrellas. (Zählnomen) b. sp. \*Bebí varia agua. (Massenomen) Determinanten und Quantifikatoren gehören zu unterschiedlichen Kategorien, da sie nicht in komplementärer Distribution stehen. (14) pt. todos os alunos
+
+PRONOMINA Pronomina kodieren Person, Numerus und Genus und haben z.T. auch unterschiedliche Formen für unterschiedliche Kasus. Nominativ: sp. él, la, pt. ele, ela Akkusative: sp. lo, la, pt. o, a Dativ: sp. le, pt. lhe Sie kodieren nominale grammatische Eingenschaften. Referenz wird durch Diskurs bestimmt.
+
+AUXILIARE Auxiliare kodieren mit dem Verb verbundene grammatische Eingenschaften, wie Tempus, Aspekt, Modus und Genus. (15) a. sp. Ella come. / Ella ha comido b. pt. Ele come. / Ele tem comido. Auxiliare erlauben nur Verben als Komplement. (16) a. sp. Voy a visitar a mi tío. b. pt. Vou visitar meu tio. Auxiliare haben keinen/wenigen semantischen Inhalt.
+
+KOMPLEMENTIERER Komplementierer sind nebensatzeinleitende Elemente, wie sp. que, pt. que und sp. si, pt. se. Sie kodieren grammatische Eigenschaften wie Finitheit und Satztyp. Der Nebensatz ist finit und declarativ. (17) a. sp. Sé que ella va a la escuela. b. pt. Eu sei qie ela vai á escola.
+
+INDIZIERTE KLAMMERUNG(LABELED BRACKETING) Um die grammatische Kategorie eines Wortes anzuzeigen, kann man es in eine Klammer schreiben und am linken Rand durch eine Abkürzung kennzeichnen, welcher Kategorie es angehört. (18) a. sp. \[D El \] \[N perro \] \[V come \] \[D la \] \[D carne\]. b. pt. \[D O \] \[N cão \] \[V come \] \[D o \] \[D carne\].
+
+INDIZIERTE KLAMMERUNG(LABELED BRACKETING) N: Nomen A: Adjektiv P: Präposition Q: Quantifizierer C/Comp: Komplementierer
+
+V: Verb Adv: Adverb D/Det: Determinierer Prn: Pronomen Aux: Auxiliar
+
+KONSTITUENTEN Sätze bestehen aus Konstituenten d.H. hierarchisch strukturierte Einheiten von einem Wort oder mehreren Wörtern, die einer bestimmten syntaktischen Kategorie angehören und eine bestimmte grammatische Funktion haben. Wie viele und welche Konstituenten können Sie intuitiv bestimmen? (19) Die Katze liegt gemütlich auf dem Sofa.
+
+KONSTITUENTENTESTS Substitutionstest/Ersetzungsprobe Wortfolgen, die in beliebigen Sätzen einer Sprache an der gleichen Stelle in einem Syntagma füreinander einsetzbar sind, bilden Konstituenten (Ramers 2007: 18). (20) a. Der kleine Hund --- spielt --- im Garten. b. Die Katze --- schläft --- auf dem Sofa.
+
+KONSTITUENTENTESTS Ein Problem mit dem Substitutionstest Der Substitutionstest allein ist nicht zuverlässig, da er Wortfolgen als Konstituenten ausweist, die nach den anderen Tests nicht diesen Status haben. (21) a. Das Kind --- spielt mit --- der Decke. b. Das Kind --- liegt auf --- der Decke. c. Das Kind --- schläft unter --- der Decke. (Ramers 2007: 18)
+
+KONSTITUENTENTESTS Pronominalisierungstest Alles, was sich durch ein Pronomen ersetzen lässt, bildet eine Konstituente. (22) a. Susi spielt mit dem Kaninchen. Sie streichelt es. b. Peter freut sich über das Geschenk. Darüber kann sich sein Bruder nicht freuen. c. Der Bär schläft in der Höhle. Dort hat er seine Ruhe. d. Anna trinkt ein Bier. Das tut/macht Otto auch gerade. (Ramers 2007: 18)
+
+KONSTITUENTENTESTS Fragetest Konstituenten können erfragt werden.\
+(23) (Der Lehrer)1 ((ärgert)4 (die Schüler)3)2 (24) a. Wer ärgert die Schüler? b. Was tut der Lehrer? c. Wen ärgert der Lehrer? d. Was macht der Lehrer mit den Schülern? (Ramers 2007: 19)
+
+KONSTITUENTENTESTS Ein Problem mit dem Fragetest Nicht alle Wortketten, die als Konstituenten anzusehen sind, können direkt erfragt werden (25) a. Die Studenten denken an die Klausur. b. Woran denken die Studenten? Die Klausur. (Ramers 2007: 19)
+
+KONSTITUENTENTESTS Permutationstest/Verschiebeprobe Alles, was im Satz zusammen veschoben werden kann ohne Änderung der Grammatikalität, ist eine Konstituente (Ramers 2007: 20). Topikalisierung (26), Extraposition (27) (26) a. Der Lehrer ärgert die Schüler. b. Die Schüler ärgert der Lehrer. (27) a. Sie hat den Sekt, den du haben wolltest, nicht bekommen. b. Sie hat den Sekt nicht bekommen, den du haben wolltest.
+
+KONSTITUENTENTESTS Ein Problem mit dem Permutationstest Der Permutationstest führt nicht immer zum gewünschten Ergebnis. (28) a. \[ Die Studentin aus Stuttgart \] besucht die Linguistikvorlesung. b. Die Linguistikvorlesung besucht \[ die Studentin aus Stuttgart \]. c. \[ Aus Stuttgart \] besucht \[ die Studentin \] die Linguistikvorlesung. (Ramers 2007: 20)
+
+KONSTITUENTENTESTS Tiltungstest Was weggelassen werden kann, bildet eine Konstituente. (29) a. Nur wenige StudentInnen wollen ... und viele müssen in der Mensa essen. b. Inge schreibt einen Brief an die Freundin, Anna ... eine Karte an ihre Oma. (Ramers 2007: 21)
+
+KONSTITUENTENTESTS Ein Problem mit dem Tiltungstest Das Subjekt und das Objekt bilden keine Konstituente. (30) Weil ihn die Sache interessiert, aber ... nicht unmittelbar betrifft. (Ramers 2007: 21)
+
+KONSTITUENTENTESTS Koordinationstest Alles, was sich koordinieren lässt, bildet eine Konstituente. (31) a. Anna und ihr Bruder fahren mit der Bahn. b. Der Dozent klappt das Buch zu und verlässt den Hörsaal. (Ramers 2007: 21)
+
+KONSTITUENTENTESTS Ein Problem mit dem Koordinationstest Das Subjekt und das Partizip werden nicht als Konstituente angesehen. (32) Ich bin erschüttert, weil mich die Frau geküsst und der Mann geohrfeigt hat. (Ramers 2007: 21)
+
+IN A NUTSHELL lexikalische und funktionale Kategorien Konstituententests Substitutionstest Pronominalisierungstest Fragetest Permutationstest Tilgungstest Koordinationstest
+
+AUFGABE 1 Welche syntaktischen Kategorien, welche grammatischen Funktionen, wie viele und welche Konstituenten können Sie bestimmen? (1) a. sp. Juan lee un libro. / pt. O João lê um livro. b. sp. El gato come un pez. / pt. O gato come um peixe. c. sp. Nació en Lima. / pt. Nasceu em Lisboa. d. sp. Ese hombre alto vive en mi edificio. / pt. Aquele homem alto mora meu prédio.
+
+AUFGABE 2 Bestimmen Sie für die folgenden Sätzen die Konstituenten mithilfe je zwei der vorgestellten Tests. Notieren Sie die Konstituenten mithilfe der Klammerstruktur. Bestimmen Sie die syntaktische Kategorien der Wörter. (2) a. sp. Las niñas miran la película en la televisión. a'. pt. As meninas viram o filme na televisão. b. sp. Juan come una manzana. b'. pt. O João come uma maçá. c. sp. El chico va al cine con su enamorada. c'. pt. O rapaz vai ao cinema com a sua namorada. d. sp. Pedro viajó a París. d'. pt. O Pedro partiu para Paris.

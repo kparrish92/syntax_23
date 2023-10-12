@@ -1,0 +1,95 @@
+---
+title: "Untitled"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN Gabriel Martínez Vera Goethe-Universität MartinezVera\@em.uni-frankfurt.de 1
+
+ÜBUNG 1 Die Lösungen sind im OLAT (3. Woche) verfügbar.
+
+SÄTZE IM X-BAR-SCHEMA Was ist die Struktur eines Satzes (S)? sp. \[S \[DP la niña \] \[VP leer un libro \]\] / pt. \[S \[DP a menina\] \[VP ler um livro \]\] sp. \[S \[DP la niña \] \[?P lee un libro \]\] / pt. \[S \[DP a menina\] \[?P lê um livro \]\] Was ist der Unterschied zwischen sp. leer un libro, pt. ler um livro und sp. lee un libro, pt. lê um livro? sp. leer, pt. ler: infinite Verbform, nicht nach Tempus, Numerus und Person flektiert sp. lee, pt. lê: finite Verbform, nach Tempus, Numerus und Person flektiert
+
+T(EMPUS)P(HRASE) TP hat grammatische Funktionen. (1) TP T T' VP V V'
+
+VP VS. TP VP ist die lexikalische Domäne. Hier werden die Elemente aus dem Lexikon eingesetzt (das Verb und sein(e) Komplement(e)) TP ist die Tempusdomäne. Hier wird das Verb für Tempus spezifiziert. (2)
+
+VP V V' DP un libro um livro leer ler VP V V' DP un libro um livro leído lido TP T T' (3)
+
+ha tem
+
+DAS SUBJEKT In welcher Position könnte das Subjekt stehen? Das Subjekt ist nicht der Kopf des Satzes. Es ist nicht das Komplement des Verbs (Nominativ, nicht Akkusativ oder Dativ). (5) TP T T' VP V V' Objekt
+
+DAS SUBJEKT IN SPEC,VP Das Verb sp. leer, pt. ler erfordert zwei Argumente: Subjekt und (direktes) Objekt. Das direkte Objekt (das internes Argument) ist sp. un libro, pt. um livro. Das Subjekt (das externe Argument) ist sp. la niña, pt. a menina. Die semantische Anforderung des Verbs ist erf̈üllt. (5) a. sp. \[VP \[DP la niña \] \[V' leer \[DP un libro \]\]\] b. pt. \[VP \[DP a menina \] \[V' ler \[DP um livro \]\]\]
+
+MERGE Merge, eine syntaktische Operation, verknüpft zwei syntaktische Einheiten, um eine neue syntaktische Einheit zu bauen. (6) Schritt 1: Merge von V und dem Objekt (Komplement) sp. \[V' leer \[DP un libro \]\] / pt. \[V' ler \[DP um livro \]\] (7) Schritt 2: Merge von V' und dem Subjekt (Spezifizierer) sp. \[VP \[DP a menina \] / pt. \[V' ler \[DP um livro \]\]\]
+
+DAS SUBJEKT IN SPEC,VP Aber es gibt ein Problem: (8) a. sp. *Ha la niña leído un libro. b. pt.* Tem a menina lido um livro. (9) a. sp. \[T' ha \[VP \[DP la niña \] \[V' leído \[DP un libro \]\]\]\] b. pt. \[T' tem \[VP \[DP a menina \] \[V' lido \[DP um livro \]\]\]\]
+
+DAS SUBJEKT IN SPEC,TP Es gibt nicht nur semantischen, sondern auch syntaktischen Zusammenhang mit dem Verb. Das Subjekt bestimmt über die Numerus- und Personflektion des Verbs. Dies geschieht in der funktionalen Verbdomäne d.h. TP. VP V V' DP un libro um livro leído lido TP T T' (10)
+
+ha tem DP la niña a menina
+
+DAS SUBJEKT IN SPEC,TP Das Subjekt bewegt sich nach Spec,TP. Neue Operation: Move ⍺ Die syntaktische Bewegung hinterlässt eine Spur (trace). So bleiben die strukturellen Beziehungen auch nach Bewegung einer Konstituente rekonstruierbar.
+
+VP V V' DP un libro um livro leído lido TP T T' (11)
+
+ha tem DP la niña a menina t
+
+MOVE ⍺ Jede beliebige maximale (XP) oder minimale (X/X0) Projektion kann an eine für diesen Typ vorgesehene Position bewegt werden. (12)
+
+YP t Y' XP X X' ZP t Y X
+
+DAS SUBJEKT IN SPEC,TP EPP (Erweitertes Projektionsprinzip/Extended Projection Principle) Jeder T-Kopf muss zu einer TP mit Subjekt in der Spezifiziererposition erweitert werden. Das ist ein rein syntaktisches Merkmal des T. Die TP ist nur dann maximal, wenn dieses Merkmal erfüllt ist. (13) \[TP Subjekt \[T' T\[EPP\] VP \]
+
+DAS SUBJEKT Vergleichen Sie die folgenden Sätze: Ist das EPP erfüllt? Inwiefern? (14) a. sp. El chico está aquí. / pt. O rapaz está aqui. b. dt. Der Junge ist hier. (15) a. sp. Está aquí. / pt. Está aqui. b. dt. Er ist hier. Das EPP ist als Prinzip formuliert. Es sollte für alle Sprachen gültig sein. Wie lassen sich die empirischen Fakten aus (15) nun erklären?
+
+DAS SUBJEKT EPP erfüllt durch das Subjekt sp. el chico, pt. o rapaz, dt. der Junge. (14) a. sp. El chico está aquí. / pt. O rapaz está aqui. b. dt. Der Junge ist hier. Im Deutschen erfüllt das EPP durch das pronominale Subjekt er. Im Spanischen und im Portugiesischen gibt es kein offenes Subjekt. Diese sind Nullsubjektsprachen: sie erlauben leere Subjektpronomina: pro. (15) a. sp. Está aquí. / pt. Está aqui. b. dt. Er ist hier.
+
+LEERES SUBJEKTPRONOMEN pro Es gibt leere Kategorien, die grammatischen und semantischen Merkmale aufweisen (aber keine phonetischen). (16) sp. Hablo español. / pt. Falo português. Das Subjekt ist strukturell vorhanden, aber phonologisch nicht realisiert. Das Subjekt wird vom finiten Verb semantisch gefordert. Kongruenzmorphologie des flektierten Verbs zeigt Subjekt-Verb-Kongruenz. pro verhält sich syntaktisch wie ein realisiertes Subjektpronomen.
+
+LEERES SUBJEKTPRONOMEN pro (17) VP V V' DP un libro um livro leído lido TP T T' ha tem DP pro t
+
+LEERES SUBJEKTPRONOMEN pro Warum handelt es sich um ein leeres Pronomen? pro kann referentiell sein oder als Expletivum auftreten: (18) a. pro comemos la sopa. b. pro parece que Juan y María llegaron. Erklärung für die Möglichkeit der Subjektauslassung: Die starke Kongruenzmorphologie identifiziert den Inhalt von pro.
+
+DER NULLSUBJEKTPARAMETER Sprachen unterscheiden sich in Hinblick auf die Existenz von pro. Spanisch erlaubt pro in Subjektposition. Es ist eine Nullsubjektsprache, d.h. das EPP ist in dieser Sprache auch durch ein phonologisch nicht-realisiertes Pronomen erfüllt. Deutsch erlaubt pro nicht in Subjektposition. Es ist keine Nullsubjektsprache, d.h. das EPP kann in dieser Sprache nicht durch ein phonologisch nicht-realisiertes Pronomen erfüllt werden.
+
+LEERES SUBJEKTPRONOMEN pro (19) a. pro llueve. b. Es regnet. Die Realisierung des Pronomens ist nicht möglich. (20) \*Él llueve. Woran könnte das liegen? An der Semantik: das Verb llover verlangt kein semantisches Subjekt.
+
+LEERES SUBJEKTPRONOMEN pro Es gibt verschiedene Arten von Subjektpronomina. (21) a. Ellos/pro van a dormir. b. Sie werden schlafen. c. \[TP pro \[T' han \[VP t \[V' dormido \]\]\]\] referentielles Pronomen (Argument von dem Verb) Basisgenerierung in Spec,VP EPP durch move nach Spec,TP erfüllt (22) a. pro va a llover. b. Es wird regnen. c. \[TP pro \[T' ha\[EPP\] \[VP \[V' llovido \]\]\]\] nicht-referentielles, expletives Pronomen (kein Argument von dem Verb) Basisgenerierung in Spec,TP
+
+EXPLETIVES pro Wetterverben: llueve, nieva existential constructions: Hay flores en el jardín unpersönliche Konstruktionen: es obvio que, parece que, es importante que Stellen Sie den folgenden Satz mithilfe der X-Bar-Struktur dar: (23) Ha habido una reunión.
+
+VP V V' DP una reunión habido TP T T' ha DP pro (24) Ha habido una reunión.
+
+VERBBEWEGUNG Wie kann man Sätze ohne Hilfsverb darstellen? Das Verb muss eine Tempusspezifizierung bekommen. V bewegt sich nach T. (25) VP t V' DP un libro um livro TP T T' lee lê
+
+DP Susana A Susana t
+
+NEBENSÄTZE Nebensätze: maximale Projektion einer weiteren funktionalen Kategorie (CP) que/si sind Köpfe der CP und fordern als obligatorisches Komplement die TP. CP ist die höchste Projektionsstufe.
+
+VP t V' TP María es linda a Maria é linda TP T T' dice diz DP Susana A Susana t CP C que que (26) a. sp. Susana dice que María es linda. b. pt. A Susana diz que a Maria é linda
+
+VERSCHIEDENE DOMÄNEN VP lexikalisch-semantische Domäne TP funktionale Tempus-Domäne CP funktionale Diskurs-Domäne
+
+SATZARTEN Subordination (Nebensatz): markiert durch Konjunktionen/ Komplementierer: sp. que, si, porque, pt. que, se, porque... Interrogation (Fragesatz): markiert durch Fragewörter und/oder Satzstellung: sp. que, porque, cuando, ¿llegó Juan?, pt. que, porque, quando, chegou o João? Deklaration (Aussagesatz): markiert durch neutrale Wortstellung, leere C-Domäne
+
+(27) sp. Creo que tengo un problema. / pt. Acho que tenho um problema. VP t V' TP T T' creo acho DP pro t CP C que que C CP C' VP V' TP T' T tengo tenho DP pro DP un problema um problema t t ∅
+
+LEERES SUBJEKTPRONOMEN PRO PRO ist das unhörbare, aber mitgedachte Subjekt infiniter Sätze. Anstelle von PRO kann kein overtes Subjekt erscheinen. (28) a. sp. Pedro quiere escribir una carta. b. sp. Pedroi quiere PROi escribir una carta. c. pt. O Pedro quer escrever uma carta. d. pt. \[O Pedro\]i quer PROi escrever uma carta.
+
+LEERES SUBJEKTPRONOMEN PRO PRO ist das leere Subjekt in Infinitivsätzen, die von bestimmten Verben eingebettet werden. Diese Verben heißen Kontrollverben (wie z.B. sp. querer, prometer, pt. querer, prometer). Die Argumentstruktur des Infinitivs verlangt ein Subjekt. Das Subjekt des Infinitivs kann overt sein, wenn der Infinitivsatz in einen finiten Satz umgewandelt wird. (29) a. sp. Pedroi le prometió a Maria PROi salir más seguido. b. sp. Pedroi le prometió a Maria que proi/\[él mismo\]i saldría más seguido. c. pt. \[O Pedro\]i prometeu à Maria PROi sair mais cedo. d. pt. \[O Pedro\]i prometeu à Maria que proi/elei ia sair mais cedo.
+
+LEERES SUBJEKTPRONOMEN PRO Es gibt verschiedene Typen von Kontrollinfinitiven: Subjektkontrollinfinitive (30) a. sp. \[Los padres\]i quieren PROi dormir. b. pt. \[Os pais\]i querem PROi dormir. Objektkontrollinfinitive (31) a. sp. Pedro convenció a Mariai de PROi salir más seguido. b. pt. O Pedro convenceu à Mariai a PROi sair mais cedo.
+
+(30) Los padres quieren dormir. VP t V' TP T T' quieren DP los padres t CP C ∅ C CP C' VP V' TP T' T dormir DP PROi t t
+
+IN A NUTSHELL Merge verknüpft zwei syntaktische Einheiten, um ein neue syntaktische Einheit zu formen. Move α erlaubt unter bestimmten Bedingungen, Elemente zu verschieben, also ihre Position innerhalb der Struktur zu verändern. Kopfbewegung XP-Bewegung EPP: Jeder finite Satz muss ein Subjekt in der Subjektposition haben. pro: leeres Subjektpronomen finiter Sätze PRO: leeres Subjektpronomen infiniter Sätze
+
+AUFGABE 1 Stellen Sie folgende Sätze im Strukturbaum dar. Geben Sie an, um welche Art von pro es sich handelt, falls pro vorhanden ist. (1) a. Sabemos que va a llover. a'. Sabemos que vai chover. b. Es obvio que tengo razón. b'. É obvio que tenho razão.
+
+AUFGABE 2 Stellen Sie folgende Sätze im Strukturbaum dar. (2) a. Ana vive en Lima. a'. A Ana vive em Lisboa. b. Carmen dice que Ana vive en Bogotá. b'. A Carmen diz que a Ana vive em Lisboa. c. Carmen quiere vivir en Quito. c'. A Carmen quer viver em Lisboa.
+
+NACHBEREITUNG
+
+Bitte lesen Sie Gabriel, Christoph und Meisenburg, Trudel (2014): Romanische Sprachwissenschaft. Paderborn: W. Fink, Kap. 7.1.4., 7.1.6., 7.1.7., 7.2.2. (Link zu dem Buch - https://hds.hebis.de/ubffm/Record/HEB368967395).

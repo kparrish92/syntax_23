@@ -1,0 +1,281 @@
+---
+title: "07"
+format: revealjs
+editor: source
+---
+
+EINFÜHRUNG IN DIE SYNTAX DES SPANISCHEN UND DES PORTUGIESISCHEN
+Gabriel Martínez Vera
+Goethe-Universität
+MartinezVera@em.uni-frankfurt.de
+1
+
+WIEDERHOLUNG
+morphologischer Kasus und abstrakter Kasus 
+struktureller Kasus (NOM, AKK) und inhärenter Kasus (DAT, GEN) 
+Kasuszuweisung
+ECM (sp. ver, oír, dejar, pt. ver, ouvir, deixar) 
+Anhebungsverben (sp./pt. parecer) 
+
+BINDUNGSTHEORIE
+Pronomina können nicht eigenständig referieren, aber sie treten wie referenzielle Syntagmen in Argumentpositionen auf. 
+(1)	a. Peter hat Hunger. Er will etwas essen. 
+	b. Peter rasiert sich. 
+	c. Stefan hat Peter von sich erzählt. 
+
+
+BINDUNGSTHEORIE
+(2)	a. Peteri hat Hunger. Eri will etwas zu essen. 
+	b. Peteri rasiert sichi. 
+	c. Stefanj hat Peteri von sichj erzählt. 
+Wie erhalten Pronomina ihren Referenzwert?
+Durch Koindizierung mit einem bereits erwähnten referenziellen Syntagma, also einer DP.
+vorerwähntes referenzielles Syntagma: Antezedens 
+Gegenstand der Bindungstheorie sind Koreferenzbeziehungen zwischen sprachlichen Ausdrücken. 
+
+
+BINDUNGSTHEORIE
+Anaphern:
+Reflexivpronomina 
+ohne Referenzwert 
+Das Antezedens muss sich in der gleichen Domäne befinden. 
+Pronomina: 
+ohne Referenzwert 
+Das Antezedens darf nicht in der gleichen Domäne sein. 
+R-Ausdrüke: 
+Nomina und Eigennamen, die in einer DP auftreten
+können eigenständig referieren 
+
+
+BINDUNGSTHEORIE
+(3)	Anai und Evaj sind im Badezimmer und schauen in den Spiegel. 
+(4)	a. sp. proi laj mira en el espejo.	a’. sp.*proi lai mira en el espejo.
+	b. pt. proi mira-aj no espelho.	b’. pt. *proi mira-ai no espelho.
+	c. sp. proj lai mira en el espejo. 	c’. sp. *proj laj mira en el espejo.
+	d. pt. proj mira-ai no espelho.	b’. pt. *proj mira-aj no espelho.
+(5)  	a. sp. proi sei mira en el espejo.	a’. sp. *proi sej mira en el espejo.
+	b. pt. proi mira-sei no espelho.	b’. pt. *proi mira-sej no espelho.
+	c. sp. proj sej mira en el espejo. 	c’. sp. *proj sei mira en el espejo.
+	d. pt. proj mira-sej no espelho.	d’. pt. *proj mira-sei no espelho.
+
+BINDUNGSTHEORIE
+(6)	 Bindung (binding) 
+	α bindet β genau dann, wenn
+	a. α mit β koindiziert ist (= den gleichen Index trägt); 	und
+	b. α β c-kommandiert. 
+
+
+C-KOMMANDO
+(7)	C-Kommando (‘constituent command’) 
+	α c-kommandiert β, α ≠ β gdw.	a. jeder verzweigende Knoten γ, der α dominiert, auch β dominiert; und	b. weder α β noch β α dominiert. 
+(8)
+B
+E
+A
+C
+G
+D
+H
+I
+F
+
+(9)
+A c-kommandiert keinen anderen Knoten.
+B c-kommandiert C und alle Tochterknoten von C (E, F, G, H, I).
+C c-kommandiert B und alle Tochterknoten von B (D).
+D c-kommandiert keinen anderen Knoten.
+E c-kommandiert F und alle Tochterknoten von F (H, I).
+F c-kommandiert E und alle Tochterknoten von E (G).
+G c-kommandiert keinen anderen Knoten.
+H c-kommandiert I.
+I c-kommandiert H. 
+
+C-KOMMANDO
+B
+E
+A
+C
+G
+D
+H
+I
+F
+
+BINDUNGSPRINZIPIEN 
+(10)	Bindungsprinzipien 
+	Prinzip A: Anaphern müssen in ihrer Bindungsdomäne 	gebunden sein. 
+	Prinzip B: Pronomina müssen in ihrer Bindungsdomäne 	frei sein. 
+	Prinzip C: Referentielle Ausdrücke (R-Ausdrücke)	müssen in 	der gesamten Domäne frei sein. 
+
+
+BINDUNGSPRINZIPIEN 
+Prinzip A: Anaphern müssen in ihrer Bindungsdomäne gebunden sein.
+(11)  	a. sp. proi sei mira en el espejo.	a’. sp. *proi sej mira en el espejo.
+	b. pt. proi mira-sei no espelho. 	b’. pt. *proi mira-sej no espelho.
+ (12)	a.					b.
+
+TP
+T’
+sei mira en el espejo
+DP
+Susanai
+TP
+T’
+sej mira en el espejo
+DP
+La amigaj de Susanai
+
+BINDUNGSPRINZIPIEN
+Prinzip B: Pronomina müssen in ihrer Bindungsdomäne frei sein. 
+(13) 	a. proi laj mira en el espejo.	a’. *proi lai mira en el espejo.
+	 b. pt. proi mira-aj no espelho.	b’. pt. *proi mira-ai no espelho.
+(14)
+TP
+T’
+laj mira en el espejo
+DP
+Susanai
+
+BINDUNGSPRINZIPIEN
+(15)	
+VP
+V’
+TP
+shei is angry
+TP
+T
+T’
+has
+DP
+Susanai
+ t
+CP
+C
+that
+V
+said
+
+BINDUNGSPRINZIPIEN
+Prinzip C: Referentielle Ausdrücke (R-Ausdrücke) müssen frei sein. 
+(16) 	a. sp. proi mira a Evaj en el espejo. 
+	a’. pt. proi mira a Evaj no espelho. 
+	b. sp. *proi mira a Anai en el espejo. 
+	b’. pt. *proi mira a Anai no espelho. 
+
+
+
+BINDUNGSPRINZIPIEN
+(17)
+VP
+V’
+TP
+Anaj no viene
+a Anaj não vai
+TP
+T
+T’
+dice
+diz
+DP
+Ellai
+Elai
+ t
+CP
+C
+que
+que
+t
+
+ADJUNKTE
+(18)
+V
+V’
+V’
+AdvP
+muchas veces
+no parque
+leer
+ler
+DP
+el libro
+uma revista
+VP
+DP
+María
+A Maria
+
+ADJUNKTE
+Wenn man Adverbien und Lokalangaben nicht wie bisher als Adjunkte zu V’ sondern als VP Adjunkte analysiert, haben sie Skopus über die gesamte VP und somit auch über das Subjekt. 
+verdeutlicht, dass sich die adjungierte Konstituente auf die gesamte Verbalhandlung bezieht. 
+(19) 	a. sp. María lee el libro muchas veces. 
+	b. pt. A Maria lê uma revista no parque. 
+
+
+ADJUNKTE
+(20)
+V
+V’
+leer
+ler
+DP
+un libro
+uma revista
+VP
+DP
+María
+A Maria
+VP
+AdvP
+muchas veces
+no parque
+
+ADJUNKTE
+Wie kann man mit den präverbalen Adverbien umgehen? 
+(21) 	sp. Evidentemente Maria leyó el libro. 
+	pt. Evidentemente a Ana come bonbons.
+Wir haben es in diesen Beispielen nicht mit VP-Adverbien, sondern mit Satzadverbien zu tun. 
+Diese erscheinen in absoluter Initialposition oder unmittelbar nach dem Subjekt und beziehen sich nicht auf die Verbalhandlung, sondern stellen ein Kommentar des Sprechers dar. 
+
+
+ADJUNKTE
+Satzadverbien lassen sich von VP Adverbien dadurch unterscheiden, dass sie sich durch adjektivische Konstruktionen paraphrasieren lassen: 
+(23) 	a. sp. Evidentemente María leyó el libro. 
+	b. sp. Es evidente que María leyó el libro. 
+Bei VP Adverbien ist diese Transformation nicht möglich: 
+(24) 	a. pt. A María come bonbons muitas vezes. 
+	b. pt. *É muitas vezes que a María come bonbons.
+Satzadverbien werden in einer höheren Position basisgeneriert. 
+
+
+ADJUNKTE
+(25)
+VP
+V’
+DP
+el libro
+TP
+T
+T’
+leyó
+DP
+María
+ t
+t
+TP
+AdvP
+evidentemente
+
+IN A NUTSHELL
+Bindung
+Bindungsprinzipien
+c-Kommando
+VP/TP-Adjunkte 
+
+
+AUFGABE 1
+Erläutern Sie unter Bezugnahme der Bindungsprinzipien die Koindizierung der pronominalen Elemente in (1). 
+(1) 	a. Peteri mag ihn∗i/j / sichi/∗j.
+	b. Der Vaterj von Peteri findet ihni/∗j / sich∗i/j ziemlich toll.
+	c. Peteri / Eri mag Peter∗i/j. 
+
+
