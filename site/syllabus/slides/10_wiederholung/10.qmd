@@ -1,6 +1,0 @@
----
-title: "10"
-format: revealjs
-editor: source
----
-
